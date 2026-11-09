@@ -1,0 +1,29 @@
+filename = 'BetterEnd-21.0.39.jar'
+name = 'BetterEnd: New Dawn'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'BetterEnd-21.0.39 [1.21.1]'
+
+[download]
+hash = 'be8e2a2177db15fc83c96acd7d2be2eb1c62614c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9306604
+project-id = 1422294
+
+[[x-prismlauncher-dependencies]]
+addonId = '1422273'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1422284'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1422283'
+type = 'REQUIRED'

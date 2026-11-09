@@ -1,0 +1,18 @@
+filename = 'libtooltips-3.0-NEOFORGE-1.21.1.jar'
+name = 'LibTooltips'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'libtooltips-3.0-NEOFORGE-1.21.1.jar'
+
+[download]
+hash = 'f01ff07f0182cac0bfcc7b08ab7703d3a3c16c91'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9413786
+project-id = 1370245

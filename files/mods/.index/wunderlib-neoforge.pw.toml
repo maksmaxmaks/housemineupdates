@@ -1,0 +1,18 @@
+filename = 'wunderlib-21.0.11.jar'
+name = 'WunderLib: New Dawn'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'wunderlib-21.0.11 [1.21.1]'
+
+[download]
+hash = '58a8354e9ecb70a04b51f080ce3c2864a1cf3700'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9172421
+project-id = 1422273

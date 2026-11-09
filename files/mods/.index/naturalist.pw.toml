@@ -1,0 +1,21 @@
+filename = 'naturalist-2.0.7-neoforge-1.21.1.jar'
+name = 'Naturalist'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Naturalist 2.0.7 (NeoForge 1.21.1)'
+
+[download]
+hash = 'a7f9f6d9991880c377d2248af5c1ea05a0aa1039'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9280587
+project-id = 627986
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

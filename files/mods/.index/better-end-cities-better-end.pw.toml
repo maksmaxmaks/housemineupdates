@@ -1,0 +1,29 @@
+filename = 'BetterEndCities-BetterEnd-1.21.jar'
+name = 'Better End Cities Better End'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'BetterEndCities-BetterEnd-1.21.jar'
+
+[download]
+hash = 'b29cc1ffa9c7662b923a4cd3857fd8e7b310a713'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8455299
+project-id = 959460
+
+[[x-prismlauncher-dependencies]]
+addonId = '1435127'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '413596'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1422294'
+type = 'REQUIRED'

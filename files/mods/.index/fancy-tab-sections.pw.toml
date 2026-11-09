@@ -1,0 +1,18 @@
+filename = 'fancytabsections-6.2.1-NEOFORGE-1.21.1.jar'
+name = 'Fancy Tab Sections'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fancytabsections-6.2.1-NEOFORGE-1.21.1.jar'
+
+[download]
+hash = 'bdc9738d9ea84276569bbd6f7ae7f06143755194'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8800690
+project-id = 1537163

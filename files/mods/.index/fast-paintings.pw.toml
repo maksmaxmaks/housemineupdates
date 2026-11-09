@@ -1,0 +1,21 @@
+filename = 'fastpaintings-1.21-1.3.1-neoforge.jar'
+name = 'Fast Paintings'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fastpaintings-1.21-1.3.1-neoforge'
+
+[download]
+hash = '5cfc24c9b079a624bee0e008ba3cfd10de365412'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8975088
+project-id = 883287
+
+[[x-prismlauncher-dependencies]]
+addonId = '499980'
+type = 'REQUIRED'

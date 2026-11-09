@@ -1,0 +1,29 @@
+filename = 'alloyed-3.0.12+1.21.1-neoforge.jar'
+name = 'Alloyed'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '3.0.12+1.21.1-neoforge'
+
+[download]
+hash = '59dab4ba91ff9dae67c5094a8e5c3769756b7a396e670041985f6ecfb6f529fc31b4585979295167dcc5784a8121e7d1e31f867c6bd18d3fbe084b6f9aa85a4b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KUInlTFo/versions/VtGEohEU/alloyed-3.0.12%2B1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'KUInlTFo'
+version = 'VtGEohEU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tNmWwdI2'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fRiHVvU7'
+type = 'OPTIONAL'

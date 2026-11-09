@@ -1,0 +1,29 @@
+filename = 'BetterNether-21.0.30.jar'
+name = 'BetterNether: New Dawn'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'BetterNether-21.0.30 [1.21.1]'
+
+[download]
+hash = '206bbe8a5cbfe3a351c1bcd9edf836ec388d8d3a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9306678
+project-id = 1422293
+
+[[x-prismlauncher-dependencies]]
+addonId = '1422284'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1422283'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1422273'
+type = 'REQUIRED'

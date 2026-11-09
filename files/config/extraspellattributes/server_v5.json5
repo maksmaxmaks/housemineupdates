@@ -1,0 +1,60 @@
+{
+	// Reabsorption regeneration factor (proportion of 25% of maximum per second) - Default: 1.0
+	"factor": 1.0,
+	// Reabsorption regeneration delay in seconds - Default: 4.0
+	"delay": 4.0,
+	// Reabsorption custom visuals (Default: true)
+	"visuals": true,
+	// Registration of turtle bracer
+	"turtle_bracer": true,
+	// Mod of turtle bracer (Evasion Rating points; 15 is one guaranteed Glancing Blow)
+	"turtle_bracer_mod": 5.0,
+	// Registration of turtle girdle
+	"turtle_girdle": true,
+	// Mod of turtle girdle (Fortitude points; each is +10% saturation healing)
+	"turtle_girdle_mod": 4.0,
+	// Registration of arcane bracer
+	"arcane_bracer": true,
+	// Mod of arcane bracer (Suppression Rating points; 25 is one guaranteed Spell Suppression)
+	"arcane_bracer_mod": 8.0,
+	// Registration of nonbeliever amulet
+	"nonbeliever": true,
+	// Mod of nonbeliever amulet (Suppression Rating points; 25 is one guaranteed Spell Suppression)
+	"nonbeliever_mod": 10.0,
+	// Registration of defiance ring
+	"defiance_ring": true,
+	// Mod of defiance ring
+	"defiance_ring_mod": 0.15000000596046448,
+	// Registration of undying soul
+	"undying_soul": true,
+	// Mod of undying soul
+	"undying_soul_mod": 0.30000001192092896,
+	// Mod of gold absorption ring
+	"gold_absorption_ring_mod": 4.0,
+	// Mod of netherite absorption ring
+	"netherite_absorption_ring_mod": 6.0,
+	// Mod of gold necklace
+	"gold_absorption_necklace_mod": 0.25,
+	// Mod of netherite necklace
+	"netherite_absorption_necklace_mod": 0.5,
+	// Armor Conversion: grant Reabsorption, Evasion Rating or Fortitude to armor declared in the mage_armor, evasion_armor and fortitude_armor tier tags. Turning this off leaves the tagged armor as ordinary armor; already-worn pieces keep their bonus until re-equipped
+	"armor_conversion": true,
+	// Armor Conversion: Reabsorption granted by a full set of tier 1 mage armor
+	"mage_armor_tier_1": 8.0,
+	// Armor Conversion: Reabsorption granted by a full set of tier 2 mage armor
+	"mage_armor_tier_2": 14.0,
+	// Armor Conversion: Reabsorption granted by a full set of tier 3 mage armor. 20 points matches a player's maximum health, doubling effective HP
+	"mage_armor_tier_3": 20.0,
+	// Armor Conversion: Evasion Rating granted by a full set of tier 1 evasion armor
+	"evasion_armor_tier_1": 8.0,
+	// Armor Conversion: Evasion Rating granted by a full set of tier 2 evasion armor
+	"evasion_armor_tier_2": 16.0,
+	// Armor Conversion: Evasion Rating granted by a full set of tier 3 evasion armor. 24 rating is 1.6 Glancing Blow procs, roughly doubling effective HP
+	"evasion_armor_tier_3": 24.0,
+	// Armor Conversion: Fortitude granted by a full set of tier 1 fortitude armor (each point is +10% saturation healing)
+	"fortitude_armor_tier_1": 4.0,
+	// Armor Conversion: Fortitude granted by a full set of tier 2 fortitude armor (each point is +10% saturation healing)
+	"fortitude_armor_tier_2": 7.0,
+	// Armor Conversion: Fortitude granted by a full set of tier 3 fortitude armor. 10 points doubles saturation healing, so the wearer needs twice the incoming DPS to be whittled down
+	"fortitude_armor_tier_3": 10.0
+}

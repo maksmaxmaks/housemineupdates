@@ -1,0 +1,33 @@
+filename = 'MoogsVoyagerStructuresIntegrated-neoforge-1.21.1-2.0.1.jar'
+name = "MVSI - Moog's Voyager Structures Integrated"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Moog's Voyager Structures Integrated 2.0.1-1.21+ [NEOFORGE]"
+
+[download]
+hash = '8e53e59825263a1d51e976e4c6c63423e7615c2c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8661797
+project-id = 1542803
+
+[[x-prismlauncher-dependencies]]
+addonId = '656977'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '896746'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1337167'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '412082'
+type = 'OPTIONAL'

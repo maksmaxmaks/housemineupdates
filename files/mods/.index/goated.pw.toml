@@ -1,0 +1,25 @@
+filename = 'goated-1.21-1.4.3-neoforge.jar'
+name = "You've Goat to be Kidding Me!"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'goated-1.21-1.4.3-neoforge.jar'
+
+[download]
+hash = 'c769d7f8a5c184084705a76a89528caa47454082'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6750165
+project-id = 805646
+
+[[x-prismlauncher-dependencies]]
+addonId = '412082'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '499980'
+type = 'REQUIRED'

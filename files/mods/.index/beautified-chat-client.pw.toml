@@ -1,0 +1,21 @@
+filename = 'beautifiedchatclient-1.21.1-4.0.jar'
+name = 'Beautified Chat [Client]'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric/Forge/Neo] 1.21.1-4.0 | Beautified Chat Client'
+
+[download]
+hash = '598f629a6b6da243ab19a26c3c0609d75f2291d7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9411898
+project-id = 514797
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'worldweaver-21.0.30.jar'
+name = 'WorldWeaver: New Dawn'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'WorldWeaver-21.0.30 [1.21.1]'
+
+[download]
+hash = '88dd2647a1f161dce094b11c9b6c2916963cfe50'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9306568
+project-id = 1422284
+
+[[x-prismlauncher-dependencies]]
+addonId = '1422273'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1422283'
+type = 'REQUIRED'

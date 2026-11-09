@@ -1,0 +1,3954 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-11-09T00:10:54.547Z",
+  "name": "ХаусМайн 4",
+  "pack": {
+    "version": "0.0.1",
+    "changelog": "Первая версия сборки ХаусМайн 4",
+    "required": true,
+    "minecraft": "1.21.1",
+    "loader": {
+      "type": "neoforge",
+      "version": "latest"
+    },
+    "sig": "5fcc196f24f3c82dd556355ebd6f4f8990d8e9dd",
+    "files": [
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/black_eye.json",
+        "sha1": "7df87023157037b709762a5f0f97b2a83b76e009",
+        "size": 177
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/cold_eye.json",
+        "sha1": "77a46599c73548bcb8b02824bfc0f45cb74a5e0e",
+        "size": 166
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/corrupted_eye.json",
+        "sha1": "fbbc8f1711da74d9405c91cc4666afdb8f71590e",
+        "size": 183
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/cryptic_eye.json",
+        "sha1": "fbf5f468a15ab320c68ccb00cc415b4e9313e5a6",
+        "size": 111
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/cursed_eye.json",
+        "sha1": "ddd2d91eec0b673e982523755600305fd4edcd27",
+        "size": 180
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/evil_eye.json",
+        "sha1": "b548a95960d6b75d125d9aea18bbcfe60083968f",
+        "size": 108
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/exotic_eye.json",
+        "sha1": "2ac41101c1fed934223a5fdf9cc6619b6141147d",
+        "size": 110
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/guardian_eye.json",
+        "sha1": "2c5367fa774d0148c9cf43f53074656cef94c9ec",
+        "size": 180
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/lost_eye.json",
+        "sha1": "c5c0f90e4b6e656a7624ac3318604a77404f7ddf",
+        "size": 184
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/magical_eye.json",
+        "sha1": "31ff98048ae957401f232ca12b58a175dd499ace",
+        "size": 163
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/nether_eye.json",
+        "sha1": "e038db5aefd0a2f345e84aca11cb8d15bb79056f",
+        "size": 172
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/old_eye.json",
+        "sha1": "3da00e31df3cc89f2f1a6ab2261563906018f908",
+        "size": 173
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/rogue_eye.json",
+        "sha1": "6db3cf41f2e5177d4409accb89b16aa370ce3cb9",
+        "size": 171
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/undead_eye.json",
+        "sha1": "6bcc7f16a14150576a80a60913aeb2e85fe26ec5",
+        "size": 110
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/witch_eye.json",
+        "sha1": "a973c8561999440ee716e977aa4292c15b5fdf7e",
+        "size": 111
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/Eyes/wither_eye.json",
+        "sha1": "33fdcefa6bb066ed86de4ffcf907bb4779020b5d",
+        "size": 162
+      },
+      {
+        "path": "config/EndRemastered-NeoForge/endrem.json",
+        "sha1": "f61ce7faee2942c48cec45a8493ad43ad381fc48",
+        "size": 223
+      },
+      {
+        "path": "config/MouseTweaks.cfg",
+        "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794",
+        "size": 135
+      },
+      {
+        "path": "config/aeronautics-server.toml",
+        "sha1": "e01adc163a806d84330b7778e11acb0ce3d33678",
+        "size": 3066
+      },
+      {
+        "path": "config/alloyed.toml",
+        "sha1": "2aeeb434b338dab7ed7cba05e3f93a73f70a0ba4",
+        "size": 120
+      },
+      {
+        "path": "config/ambientsounds-client.json",
+        "sha1": "e29bba5ead5073bd4f0149c3c6738084d8d8e307",
+        "size": 4198
+      },
+      {
+        "path": "config/amendments-client.toml",
+        "sha1": "37778c0e36b676d10660e4ca07016400dbd1616d",
+        "size": 5819
+      },
+      {
+        "path": "config/amendments-common.toml",
+        "sha1": "fad9a233b57fc2c245810d5fe64e6564542e33d3",
+        "size": 5764
+      },
+      {
+        "path": "config/antique-atlas.toml",
+        "sha1": "1c64403e23a673908ddd43e8742ee2ad2cd6f5e0",
+        "size": 2451
+      },
+      {
+        "path": "config/appleskin-client.toml",
+        "sha1": "8f167f14bbd81163f78c5e3459dcffdb50225117",
+        "size": 1376
+      },
+      {
+        "path": "config/archers/effects.json",
+        "sha1": "8c994fde5d69792ea77529cc342ceae3c7255250",
+        "size": 664
+      },
+      {
+        "path": "config/archers/equipment.json",
+        "sha1": "29d155aa4173da85313f87ca3cb062f9d90a52b2",
+        "size": 6610
+      },
+      {
+        "path": "config/archers/summoned_entities.json",
+        "sha1": "9b4c7263328eefd9e6e32e474ff932e4df8fa07b",
+        "size": 440
+      },
+      {
+        "path": "config/archers/tweaks.json",
+        "sha1": "502c011cdc49161e3a63a872cd808ab62499c7ca",
+        "size": 82
+      },
+      {
+        "path": "config/archers/villages.json",
+        "sha1": "b178d2eef4f38bfd6d71f9e3447b53c75c09cfff",
+        "size": 1743
+      },
+      {
+        "path": "config/armory_rpgs/client.json",
+        "sha1": "55f5b098d3984651cc7d58aaa120e24e1d7069ee",
+        "size": 40
+      },
+      {
+        "path": "config/armory_rpgs/effects.json",
+        "sha1": "de22178296cba06409bb78cb34f66c46a4496fae",
+        "size": 19
+      },
+      {
+        "path": "config/armory_rpgs/equipment_v3.json",
+        "sha1": "5911a4eebbcc6be8fbe5c5febb1f29fc2e5cd933",
+        "size": 40581
+      },
+      {
+        "path": "config/arsenal/effects.json",
+        "sha1": "8b925bc6d9052e43a7236619edd61093e6c32220",
+        "size": 2178
+      },
+      {
+        "path": "config/arsenal/equipment_v2.json",
+        "sha1": "d549dad78f22c1858d3f0ec1f8b116ee29fda729",
+        "size": 6440
+      },
+      {
+        "path": "config/arsenal/ranged_weapons.json",
+        "sha1": "becf3e09dc488a674a4df0801c80278473ded317",
+        "size": 783
+      },
+      {
+        "path": "config/arsenal/shields.json",
+        "sha1": "3bab3b7a845016d87765b6b944fddb7cae94c093",
+        "size": 1102
+      },
+      {
+        "path": "config/artificers/equipment_v2.json",
+        "sha1": "5028607b34e4e043f4d1b1b11c226f3d134db35d",
+        "size": 12565
+      },
+      {
+        "path": "config/artificers/tweaks.json",
+        "sha1": "c038533276762f71dda5e0912eeeb3a95b1aa1d6",
+        "size": 138
+      },
+      {
+        "path": "config/azurelib.json",
+        "sha1": "9b664f0a5d48fb8a25dfd7f5d1c5bd731b5e93c5",
+        "size": 509
+      },
+      {
+        "path": "config/backpacked.augments.toml",
+        "sha1": "f722a525b195b04ace6e93be14e76154aa8030a2",
+        "size": 1639
+      },
+      {
+        "path": "config/backpacked.backpack.toml",
+        "sha1": "eaf9b9ec82441471741ee30fb38693fade3cb84e",
+        "size": 26691
+      },
+      {
+        "path": "config/backpacked.client.toml",
+        "sha1": "2bccdb6f13bf43326b3e647f7722e7ae820e6e46",
+        "size": 1110
+      },
+      {
+        "path": "config/backpacked.pickpocketing.toml",
+        "sha1": "c5225d6ff40409389f42ace473d6d1cde1e6ae14",
+        "size": 649
+      },
+      {
+        "path": "config/backpacked.wandering_trader.toml",
+        "sha1": "4c7847ae842bd122e8cb113ff310aadf96ee56bb",
+        "size": 1915
+      },
+      {
+        "path": "config/bakery-common.toml",
+        "sha1": "0a5cbd06b1d662b56f39269dd068e98cdd6297ce",
+        "size": 17909
+      },
+      {
+        "path": "config/bards_rpg/effects.json",
+        "sha1": "f8d0229892ed4cd71ac32f0d6a8fe956e647b00d",
+        "size": 4862
+      },
+      {
+        "path": "config/bards_rpg/equipment.json",
+        "sha1": "614a50c81283f95cfda222b30fe47c0ff014ddac",
+        "size": 17851
+      },
+      {
+        "path": "config/bards_rpg/tweaks.json",
+        "sha1": "b08e9d14e2ce1a743873258fbe5e98506197e426",
+        "size": 217
+      },
+      {
+        "path": "config/bards_rpg/villages.json",
+        "sha1": "1581f3fd19239d3ac8499713c7f0149c9aca4010",
+        "size": 1039
+      },
+      {
+        "path": "config/bclib/client.json",
+        "sha1": "4e3383b1b4315f1027b2c11657c14679e802b8d7",
+        "size": 217
+      },
+      {
+        "path": "config/bclib/main.json",
+        "sha1": "cd0c29acb38a102fb262c4ce1ecdd704ea6cc856",
+        "size": 110
+      },
+      {
+        "path": "config/beachparty-common.toml",
+        "sha1": "516de09b716af51aaf8ceb88382f4dbb1bfdd91d",
+        "size": 212
+      },
+      {
+        "path": "config/berserker_rpg/effects_v6.json",
+        "sha1": "ca6872c3c675a3ae6e8e8b8be574da3f601720ce",
+        "size": 1363
+      },
+      {
+        "path": "config/berserker_rpg/equipment_v2.json",
+        "sha1": "d1f1c57f1bde1f9eefa3d9de65fffac24c42dd1b",
+        "size": 18676
+      },
+      {
+        "path": "config/berserker_rpg/tweaks_v2.json",
+        "sha1": "d926363b5d971fbaf99058ad8c4b0255f7703f1c",
+        "size": 340
+      },
+      {
+        "path": "config/bettercombat/client.json5",
+        "sha1": "5e958e33435651d6809f5b3cb2c46c61b37827cc",
+        "size": 721
+      },
+      {
+        "path": "config/bettercombat/fallback_compatibility.json",
+        "sha1": "8efde77c49f6cd7c4035ee3f554c25f63532335a",
+        "size": 2995
+      },
+      {
+        "path": "config/bettercombat/server.json5",
+        "sha1": "223d0a4b7c3ff0792b40696d8f4fcf29d4de1c3d",
+        "size": 6207
+      },
+      {
+        "path": "config/bettercombat/weapon_trails.json",
+        "sha1": "da308da6817dae4e2ab7c9202bd9068ba5dd3f7d",
+        "size": 7127
+      },
+      {
+        "path": "config/betterend/biomes_toggle.json",
+        "sha1": "9b9b9e75e866018682af7aea4a036f2534a720d6",
+        "size": 853
+      },
+      {
+        "path": "config/betterend/client.json",
+        "sha1": "6031463a871aafb348daaf109a3c9e48c1d14414",
+        "size": 172
+      },
+      {
+        "path": "config/betterend/generator.json",
+        "sha1": "b62ea46ffe53270d8a6f1d1c4e307a978a9ec212",
+        "size": 1324
+      },
+      {
+        "path": "config/betterend/portals.json",
+        "sha1": "155613aade66441f1485e53ef459e1bba158b797",
+        "size": 190
+      },
+      {
+        "path": "config/betterend/structures_toggle.json",
+        "sha1": "371c8fe14751cfd4ee58602529dbdb41fc549840",
+        "size": 461
+      },
+      {
+        "path": "config/betternether/biomes_toggle.json",
+        "sha1": "ef109ed1162447dc2934de466e41e4e8ab6a697f",
+        "size": 780
+      },
+      {
+        "path": "config/betternether/client.json",
+        "sha1": "a70466c07c46e47c55ad3a53786b2c77cb4ab4f4",
+        "size": 228
+      },
+      {
+        "path": "config/betternether/default_game_rules.json",
+        "sha1": "2873c32bd15edfef3761ccda385f529d8ecd7b19",
+        "size": 218
+      },
+      {
+        "path": "config/betternether/structures_toggle.json",
+        "sha1": "071fa9dedd28bdad210cf9437678ce3ff03f95a2",
+        "size": 327
+      },
+      {
+        "path": "config/betternether/world.json",
+        "sha1": "dfb0f15f4194a4e7124cd7b459394d2c14ee57b8",
+        "size": 117
+      },
+      {
+        "path": "config/biomesoplenty/biome_toggles.json",
+        "sha1": "f6876be22fc737475f68b7a492009a9b0f07ccd6",
+        "size": 2192
+      },
+      {
+        "path": "config/biomesoplenty/gameplay.toml",
+        "sha1": "78b41d7cbabd08b4be7260ef34d39af321d28974",
+        "size": 109
+      },
+      {
+        "path": "config/biomesoplenty/generation.toml",
+        "sha1": "01e8ce855e3fa7ef561472e958a5b5558ff18882",
+        "size": 521
+      },
+      {
+        "path": "config/block_factorys_bosses-client.toml",
+        "sha1": "41dc0f08855db8dc72e4b353b712331767f3f194",
+        "size": 2637
+      },
+      {
+        "path": "config/block_factorys_bosses-server.toml",
+        "sha1": "60b9f5670d368c84914c1bf152b0c1becdcfcf0c",
+        "size": 843
+      },
+      {
+        "path": "config/bosses_of_mass_destruction.json5",
+        "sha1": "e31000c44459219584440e097d728af959629ab1",
+        "size": 1475
+      },
+      {
+        "path": "config/candlelight-common.toml",
+        "sha1": "7692b78fc392017c8c3f708d5926423f1dfafeb3",
+        "size": 14736
+      },
+      {
+        "path": "config/cataclysm-client.toml",
+        "sha1": "31bb7d3e8acf3c15c5aef997d006c56e2b83c4f3",
+        "size": 539
+      },
+      {
+        "path": "config/cataclysm-common.toml",
+        "sha1": "b0dc6b40a859434df049bbfe9ff5138da4a49483",
+        "size": 30664
+      },
+      {
+        "path": "config/chat_heads.json5",
+        "sha1": "1fbe7a72d52b51ca9a8a598cf67ed28caa3ed87f",
+        "size": 229
+      },
+      {
+        "path": "config/chatanimation.json",
+        "sha1": "0e16bfe22cb29c0f2b5597ba5d7b7a66dc61aea1",
+        "size": 185
+      },
+      {
+        "path": "config/connector.json",
+        "sha1": "de7faf7cefdc6be41a7a828c2d39f15517cf58c0",
+        "size": 176
+      },
+      {
+        "path": "config/create-client.toml",
+        "sha1": "421de5ea5e5255b28219d47d4a89f0886c2314b2",
+        "size": 4795
+      },
+      {
+        "path": "config/create-common.toml",
+        "sha1": "eeb60a2bebe041d74118246f0353028f23c82242",
+        "size": 153
+      },
+      {
+        "path": "config/create-server.toml",
+        "sha1": "7e9b96b35e2f62ca7d25b583ad16f1ec9f037b36",
+        "size": 16890
+      },
+      {
+        "path": "config/createaddition-common.toml",
+        "sha1": "90e85a3109682199abf76b0609d544ad5a1544bd",
+        "size": 6871
+      },
+      {
+        "path": "config/creativecore-client.json",
+        "sha1": "2ac12a74fc6c40a697dfeb4ee9eda22e9241a6b7",
+        "size": 23
+      },
+      {
+        "path": "config/creativecore.json",
+        "sha1": "b97078641402978a24ffe8af190038943b99438a",
+        "size": 274
+      },
+      {
+        "path": "config/critical_strike/client_config.json",
+        "sha1": "e32becc1208be575af350610863252045a67eada",
+        "size": 126
+      },
+      {
+        "path": "config/critical_strike/server_config.json",
+        "sha1": "9d51526cbc4cc4e73693346976c6cfd2bd749bf7",
+        "size": 528
+      },
+      {
+        "path": "config/curios-client.toml",
+        "sha1": "7e66e02fbf04b28e7de60c4e675d2b5168be5ec6",
+        "size": 766
+      },
+      {
+        "path": "config/curios-common.toml",
+        "sha1": "2805359d4ad1ce08ef52cc73f84a96dafdc41024",
+        "size": 159
+      },
+      {
+        "path": "config/curios-server.toml",
+        "sha1": "8ccde45d5edd3767324231935fe07ac2318a0eb5",
+        "size": 483
+      },
+      {
+        "path": "config/cwb.json",
+        "sha1": "d943c4b0e65debcfcc2c9341efbd4034e501745b",
+        "size": 359
+      },
+      {
+        "path": "config/delightfulcreators-server.toml",
+        "sha1": "42cd47b47256b2940c948df04393698cb8e762e4",
+        "size": 279
+      },
+      {
+        "path": "config/displaydelight-common.toml",
+        "sha1": "936f937f507cdfbab8b084f1b5b33a96c80c4658",
+        "size": 1439
+      },
+      {
+        "path": "config/drippyloadingscreen/options.txt",
+        "sha1": "2ff67b3d9bcc2795fe59856885bf6e4bb648cc7f",
+        "size": 2465,
+        "overwrite": false
+      },
+      {
+        "path": "config/druids/effects.json",
+        "sha1": "388e3bb9d8ce03ca06aa3a1fadddc74384f808e9",
+        "size": 412
+      },
+      {
+        "path": "config/druids/equipment.json",
+        "sha1": "c31d4e20c4b44703e42d77f490b275f553b6bc54",
+        "size": 3364
+      },
+      {
+        "path": "config/druids/tweaks.json",
+        "sha1": "d51d55f9d098843a80f45e31ef60945d10be96ba",
+        "size": 40
+      },
+      {
+        "path": "config/dynamic_fps.json",
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+        "size": 3
+      },
+      {
+        "path": "config/easy_npc/dialog_client.cfg",
+        "sha1": "4bfdf4b7e5f6f8c088bc1e4548e4dee4889b8039",
+        "size": 279
+      },
+      {
+        "path": "config/easy_npc/dialog_options.cfg",
+        "sha1": "f07da968d2e0c931eda39d0efe4a3eabb05fb5c6",
+        "size": 475
+      },
+      {
+        "path": "config/easy_npc/highlight_client.cfg",
+        "sha1": "802bbde6dcab099f6e1b32abd0b8e4dff1148c5e",
+        "size": 192
+      },
+      {
+        "path": "config/easy_npc/name_tag_client.cfg",
+        "sha1": "38d77cd7a34ac8d09ee8af4641241bda3ccf5622",
+        "size": 465
+      },
+      {
+        "path": "config/easy_npc/npc_base.cfg",
+        "sha1": "390ee2b3c32b70f1d5d073d4f71376d889d22043",
+        "size": 571
+      },
+      {
+        "path": "config/easy_npc/remote_texture.cfg",
+        "sha1": "398821578016144430a0dd8a72211c1616c58f89",
+        "size": 247
+      },
+      {
+        "path": "config/easy_npc/render_entity_type_support.cfg",
+        "sha1": "b4c6b84f66ce705c3514ad29c2c1abf965def8db",
+        "size": 31656
+      },
+      {
+        "path": "config/easy_npc/security.cfg",
+        "sha1": "777655f95dbe158f44dfc1712562561cc6b21350",
+        "size": 4164
+      },
+      {
+        "path": "config/easy_npc/skin/allay/allay_template.png",
+        "sha1": "1151704465feb6c1a7bd61f0ff8494e704df3926",
+        "size": 246
+      },
+      {
+        "path": "config/easy_npc/skin/cat/cat_template.png",
+        "sha1": "f981ae83c4147058677a8cf18e108c6d9a55b157",
+        "size": 283
+      },
+      {
+        "path": "config/easy_npc/skin/chicken/chicken_template.png",
+        "sha1": "de1a6a0b5a157df1d58d00f8ce4ba5306272631b",
+        "size": 287
+      },
+      {
+        "path": "config/easy_npc/skin/creeper/creeper_template.png",
+        "sha1": "1bd7ae2462edc3b96764f0790162f87961ee6d2e",
+        "size": 255
+      },
+      {
+        "path": "config/easy_npc/skin/ender_man/ender_man_template.png",
+        "sha1": "624941707c02dc7b46282c2a411cbded82b77dd1",
+        "size": 276
+      },
+      {
+        "path": "config/easy_npc/skin/fairy/fairy_template.png",
+        "sha1": "dedd04b716203978bcdbcebfb901f0b753f912e7",
+        "size": 434
+      },
+      {
+        "path": "config/easy_npc/skin/fox/fox_template.png",
+        "sha1": "6d042f9a9b7969386b634f9aa9320abf389f8f13",
+        "size": 335
+      },
+      {
+        "path": "config/easy_npc/skin/humanoid/humanoid_template.png",
+        "sha1": "87c4ab5f89cbefc8680e76aabf68582c66b5698b",
+        "size": 360
+      },
+      {
+        "path": "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+        "sha1": "0cffa4769a12c1f8e83a40e0216572e2320e8b12",
+        "size": 384
+      },
+      {
+        "path": "config/easy_npc/skin/husk/husk_template.png",
+        "sha1": "fa8b868467e44763e80eadad2b40532ccd333119",
+        "size": 531
+      },
+      {
+        "path": "config/easy_npc/skin/illager/illager_template.png",
+        "sha1": "9c5cf8d7b514c33e6c4d1ae99a0223b2733aff2e",
+        "size": 300
+      },
+      {
+        "path": "config/easy_npc/skin/iron_golem/iron_golem_template.png",
+        "sha1": "5fbc0225ac05828ab84aca26548e872be296e186",
+        "size": 451
+      },
+      {
+        "path": "config/easy_npc/skin/orc/orc_template.png",
+        "sha1": "b494c4efeff9a3e6f3118dbb2e5780975f40b986",
+        "size": 521
+      },
+      {
+        "path": "config/easy_npc/skin/pig/pig_template.png",
+        "sha1": "5c3a096c8cad3612f63cdf2f8875a785970de9cb",
+        "size": 270
+      },
+      {
+        "path": "config/easy_npc/skin/piglin/piglin_template.png",
+        "sha1": "4d412fe70936217cf0c212dcf165c47290a12bc9",
+        "size": 361
+      },
+      {
+        "path": "config/easy_npc/skin/skeleton/skeleton_template.png",
+        "sha1": "7046abde4ca1fec60b6825974ba1cff520586c26",
+        "size": 259
+      },
+      {
+        "path": "config/easy_npc/skin/spider/spider_template.png",
+        "sha1": "885cba971843e569bbeced599d59f2c67e8af629",
+        "size": 308
+      },
+      {
+        "path": "config/easy_npc/skin/stray/stray_template.png",
+        "sha1": "fa8b868467e44763e80eadad2b40532ccd333119",
+        "size": 531
+      },
+      {
+        "path": "config/easy_npc/skin/vex/vex_template.png",
+        "sha1": "c2b16be9372168b1e9687b0a3f70ce576787f571",
+        "size": 247
+      },
+      {
+        "path": "config/easy_npc/skin/villager/villager_template.png",
+        "sha1": "15dba09fac0d202181e73bb319b423498da8abff",
+        "size": 357
+      },
+      {
+        "path": "config/easy_npc/skin/villager/villager_without_hat_template.png",
+        "sha1": "0a2bb149580640d4f38e56ba665862a550abc6a7",
+        "size": 331
+      },
+      {
+        "path": "config/easy_npc/skin/witch/witch_template.png",
+        "sha1": "e73ef43416ca972aa3438cb2f29128ce86c65d55",
+        "size": 431
+      },
+      {
+        "path": "config/easy_npc/skin/wolf/wolf_template.png",
+        "sha1": "06f7e51f5c125d869f6fe85b626b9ec14d1039b1",
+        "size": 321
+      },
+      {
+        "path": "config/easy_npc/skin/zombie/zombie_template.png",
+        "sha1": "77daf16b4c1284869ab5d7bb3d1e0afb369f7937",
+        "size": 292
+      },
+      {
+        "path": "config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+        "sha1": "423c2f3c668b7aff01b292fc7939cdaa61966e35",
+        "size": 356
+      },
+      {
+        "path": "config/easy_npc/spawner_type.cfg",
+        "sha1": "45d9478360c97e79736067b471c070d08b71537d",
+        "size": 1186
+      },
+      {
+        "path": "config/easy_npc/speech_bubble_client.cfg",
+        "sha1": "3283160424c51c0c5aaef7699caf8fbe4f9e5969",
+        "size": 874
+      },
+      {
+        "path": "config/easy_npc/storage.cfg",
+        "sha1": "ed78e093bde1bc4f2c18079e7a0501cf337aa61a",
+        "size": 1146
+      },
+      {
+        "path": "config/elemental_wizards_rpg/effects_v2.json",
+        "sha1": "f0a43905676d5de91af5b6754e60eba979fb73a1",
+        "size": 1350
+      },
+      {
+        "path": "config/elemental_wizards_rpg/equipment_v1.json",
+        "sha1": "8d92434a4f8bef4c8e8f22aec53cecc5837ddfb6",
+        "size": 21227
+      },
+      {
+        "path": "config/elemental_wizards_rpg/summoned_entities.json",
+        "sha1": "14084e738f7eb060e5af958dc5203310398f3243",
+        "size": 447
+      },
+      {
+        "path": "config/elemental_wizards_rpg/tweaks.json",
+        "sha1": "d4aaf70bdbd0635f0f46a6b2dc7446344a59d9de",
+        "size": 284
+      },
+      {
+        "path": "config/emi.css",
+        "sha1": "ce0fedbfa2556c8c1f1e320eb82af032ba81e8c3",
+        "size": 10189
+      },
+      {
+        "path": "config/emi_loot_config.toml",
+        "sha1": "af94927f4637a91142fc26726aeceda7e8fc4b7e",
+        "size": 921
+      },
+      {
+        "path": "config/emotecraft.json",
+        "sha1": "46b34d6ad5ce1ad7846e67a0c1a529b146571245",
+        "size": 668
+      },
+      {
+        "path": "config/emotecraft_emote_map.json",
+        "sha1": "be63473ca7f8286a8827f2e151fff6ce4016ff4d",
+        "size": 117
+      },
+      {
+        "path": "config/enchdesc.json",
+        "sha1": "7afc913d0110cfd7e1379ab056448b76feb6900b",
+        "size": 2059
+      },
+      {
+        "path": "config/ends_delight-common.toml",
+        "sha1": "79b9f3ea0ec60c8a158120b743c834c69eae9647",
+        "size": 705
+      },
+      {
+        "path": "config/entity_model_features.json",
+        "sha1": "41b8dba9f4aa26ae3c7b511d6c5db3afcb7de5f9",
+        "size": 1258
+      },
+      {
+        "path": "config/entity_texture_features.json",
+        "sha1": "5fc3d7567c74811f362b997baa24dc25c2163b6e",
+        "size": 1452
+      },
+      {
+        "path": "config/entityculling.json",
+        "sha1": "71d872172923ba0b593d8654bfd596f9520ddc8b",
+        "size": 2248
+      },
+      {
+        "path": "config/etf_warnings.json",
+        "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
+        "size": 28
+      },
+      {
+        "path": "config/exposure-client.toml",
+        "sha1": "a1b57ef8f2fcee55c0e91ba9114d555c80fe034e",
+        "size": 7717
+      },
+      {
+        "path": "config/exposure-common.toml",
+        "sha1": "80459d7cb71ad169906fd8b3b1b4ba26ea527f2b",
+        "size": 351
+      },
+      {
+        "path": "config/exposure-server.toml",
+        "sha1": "25eed9500f4dbe74e36667975f2f44c98ac0e222",
+        "size": 5376
+      },
+      {
+        "path": "config/exposure_polaroid-client.toml",
+        "sha1": "0b273c813ee5d12f6c856f0ca377bda2a595c008",
+        "size": 591
+      },
+      {
+        "path": "config/exposure_polaroid-server.toml",
+        "sha1": "71939e2237151c022d320da853eada47be97db91",
+        "size": 436
+      },
+      {
+        "path": "config/extraspellattributes/server_v5.json5",
+        "sha1": "a8275386244c9fb6e0c64916325425deeb647b60",
+        "size": 3085
+      },
+      {
+        "path": "config/fabric/indigo-renderer.properties",
+        "sha1": "1247e2abba24f541fcf5d1df47224cb077d9010f",
+        "size": 290
+      },
+      {
+        "path": "config/fancymenu/assets/bdcd3960-6a14-4a4b-98c6-ff50b73a44f0.png",
+        "sha1": "0239b511a3985f7d4bcba7dd6227e28bbaee4099",
+        "size": 2175202
+      },
+      {
+        "path": "config/fancymenu/assets/f91ff5c9-78f4-4dcc-bf4d-d3785c26029c.png",
+        "sha1": "059f8a70cac3ac68db8e921f28ae25ef337394d4",
+        "size": 1316897
+      },
+      {
+        "path": "config/fancymenu/assets/mods_hover_.png",
+        "sha1": "25f38ce57b177b19491449bf4978effaa92f90b8",
+        "size": 156738
+      },
+      {
+        "path": "config/fancymenu/assets/mods_inactive_.png",
+        "sha1": "9d4eecff3b1bf9fa202c7c5692a0ad2faefc43b5",
+        "size": 142776
+      },
+      {
+        "path": "config/fancymenu/assets/new_game_hover.png",
+        "sha1": "750c520cdd737fafcfbd4dee4ef62d3f1cff75ce",
+        "size": 355763
+      },
+      {
+        "path": "config/fancymenu/assets/new_game_inactive.png",
+        "sha1": "3dbbd583a80395cfe977f8a63854bbb847ba4e12",
+        "size": 320057
+      },
+      {
+        "path": "config/fancymenu/assets/quit_hover.png",
+        "sha1": "f3d893a90e3d3a28a97701ffeb3c41d052ed48f8",
+        "size": 22741
+      },
+      {
+        "path": "config/fancymenu/assets/quit_innactive.png",
+        "sha1": "0816ac7f657cbea0c7b947862caf024213446129",
+        "size": 21592
+      },
+      {
+        "path": "config/fancymenu/assets/settings_hover.png",
+        "sha1": "74dc7f25d27625ec89555bec4fb9d03609c589c6",
+        "size": 48683
+      },
+      {
+        "path": "config/fancymenu/assets/settings_innactive.png",
+        "sha1": "4262214d26bbc562369446cd6da756f2ad064cc4",
+        "size": 44785
+      },
+      {
+        "path": "config/fancymenu/custom_gui_screens.txt",
+        "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+        "size": 51
+      },
+      {
+        "path": "config/fancymenu/customizablemenus.txt",
+        "sha1": "becf0506a11598157f55da3e7b70734308f7117d",
+        "size": 149
+      },
+      {
+        "path": "config/fancymenu/customization/title_screen_layout.txt",
+        "sha1": "b531d0b097c5f646ed648d403ad290f1b59d7984",
+        "size": 51261
+      },
+      {
+        "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+        "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
+        "size": 197
+      },
+      {
+        "path": "config/fancymenu/legacy_checklist.txt",
+        "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+        "size": 42
+      },
+      {
+        "path": "config/fancymenu/options.txt",
+        "sha1": "1735d72a01c594352fbcc3b0550a45e4da5d014b",
+        "size": 4399,
+        "overwrite": false
+      },
+      {
+        "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+        "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+        "size": 9349
+      },
+      {
+        "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+        "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+        "size": 9347
+      },
+      {
+        "path": "config/fancymenu/ui_themes/dark.json",
+        "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+        "size": 9329
+      },
+      {
+        "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+        "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+        "size": 9359
+      },
+      {
+        "path": "config/fancymenu/ui_themes/light.json",
+        "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+        "size": 9331
+      },
+      {
+        "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+        "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+        "size": 9361
+      },
+      {
+        "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+        "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+        "size": 9345
+      },
+      {
+        "path": "config/fancymenu/ui_themes/purple_void.json",
+        "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+        "size": 9343
+      },
+      {
+        "path": "config/fancymenu/ui_themes/spooky_season.json",
+        "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+        "size": 9347
+      },
+      {
+        "path": "config/fancymenu/user_variables.db",
+        "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
+        "size": 23
+      },
+      {
+        "path": "config/fancytabsections-client.toml",
+        "sha1": "045da91a4f7306d0389b6e06bfb2ee12938019c9",
+        "size": 23
+      },
+      {
+        "path": "config/fancytoasts/general.json",
+        "sha1": "83a6c3525cc85263c139ed9308e47c231c72ea80",
+        "size": 467
+      },
+      {
+        "path": "config/fancytoasts/toast.json",
+        "sha1": "59efc2ab11502ed33f57709656f9eeecf2ac8b88",
+        "size": 556
+      },
+      {
+        "path": "config/fancytoasts/toast_filtering.json",
+        "sha1": "566990472c996e9de49d2e480b0d6f417fb10a88",
+        "size": 353
+      },
+      {
+        "path": "config/farm_and_charm-common.toml",
+        "sha1": "6e13508e96123fe50f511ac2acf0eed630cc876f",
+        "size": 14716
+      },
+      {
+        "path": "config/farmersdelight-client.toml",
+        "sha1": "649ffb20a99fa6a43ce25a5207c5461fee9f135d",
+        "size": 476
+      },
+      {
+        "path": "config/farmersdelight-common.toml",
+        "sha1": "94acfbb88ae7c6618e0650aaa867eaaef8b9783a",
+        "size": 3817
+      },
+      {
+        "path": "config/fastpaintings-common.toml",
+        "sha1": "648548c614ca73f4e61e70f9a2f84186f368c5c8",
+        "size": 129
+      },
+      {
+        "path": "config/ferritecore-mixin.toml",
+        "sha1": "117f758af35aac859c535d5d2da96c5747a87aea",
+        "size": 1603
+      },
+      {
+        "path": "config/flywheel-client.toml",
+        "sha1": "224fe1538bf5a72ec54f397067e6d2d99158006d",
+        "size": 637
+      },
+      {
+        "path": "config/fml.toml",
+        "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6",
+        "size": 1550
+      },
+      {
+        "path": "config/forbidden_arcanus-common.toml",
+        "sha1": "0e300cbcd414fb2ae5dfbb00a975ef74ea6459a7",
+        "size": 912
+      },
+      {
+        "path": "config/foundation-common.toml",
+        "sha1": "83ab5201273d6c97790354e96f5b7a82eeeb3547",
+        "size": 589
+      },
+      {
+        "path": "config/friendsandfoes.json",
+        "sha1": "42ef53c3c156986065aa08ccf4bd714cde6706b1",
+        "size": 3209
+      },
+      {
+        "path": "config/ftblibrary-client.snbt",
+        "sha1": "1a6fd5dcd4e4b6545de440edea6f604029fce5ff",
+        "size": 1651
+      },
+      {
+        "path": "config/ftbquests-client.snbt",
+        "sha1": "3152836d322ec70298e3f59206bc01a243f90f74",
+        "size": 1551
+      },
+      {
+        "path": "config/ftbteams-server.snbt",
+        "sha1": "d7f7b121c0b1511fea41fedefcd9094c577f1604",
+        "size": 1112
+      },
+      {
+        "path": "config/fzzy_config/keybinds.toml",
+        "sha1": "f808afa706d9a4934612b20e1efd513416a0e8f1",
+        "size": 6403
+      },
+      {
+        "path": "config/herbalbrews-common.toml",
+        "sha1": "ba6583e0cf356c6d96a5947fdf1aaa1536a86edd",
+        "size": 800
+      },
+      {
+        "path": "config/immediatelyfast.json",
+        "sha1": "9005fdfb4eeaa64cf158b244b263aa5347d03db0",
+        "size": 1114
+      },
+      {
+        "path": "config/immersive_aircraft.json",
+        "sha1": "cd8f8378da1b3741d6d16e240387967f2386b8ee",
+        "size": 1667
+      },
+      {
+        "path": "config/immersive_armors.json",
+        "sha1": "4713be023a32017f1e383213e65d6e6fc380f106",
+        "size": 435
+      },
+      {
+        "path": "config/immersive_melodies.json",
+        "sha1": "2461d49e1873cc5855a757e1213779f32d88ee95",
+        "size": 1174
+      },
+      {
+        "path": "config/immersiveengineering-client.toml",
+        "sha1": "8a0aee8bbafa8baaa4a0c37e6a609ed3e1dcbe3f",
+        "size": 2599
+      },
+      {
+        "path": "config/immersiveengineering-server.toml",
+        "sha1": "d50b95321a61efd9414cfaa3cdcc5e402df68aa2",
+        "size": 22359
+      },
+      {
+        "path": "config/immersiveengineering-startup.toml",
+        "sha1": "df3c051d62be9d4f836fc1b05b14b43437f21f3e",
+        "size": 1694
+      },
+      {
+        "path": "config/iris-excluded.json",
+        "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
+        "size": 31
+      },
+      {
+        "path": "config/iris.properties",
+        "sha1": "0cc80b2a543bf6ef878139a7702f8950549213bb",
+        "size": 281
+      },
+      {
+        "path": "config/iris_bonk-client.toml",
+        "sha1": "1bd74cb96495a40bd284934120613ff439ebeb63",
+        "size": 377
+      },
+      {
+        "path": "config/irons_spellbooks-client.toml",
+        "sha1": "2c4f69fd310f6dc5b635637729d5e5b2c1304085",
+        "size": 3571
+      },
+      {
+        "path": "config/irons_spellbooks-server.toml",
+        "sha1": "cd2ef1556b033d39ea10f40f629bc5f181bbc821",
+        "size": 5334
+      },
+      {
+        "path": "config/irons_spellbooks_spell_config/global_config.json",
+        "sha1": "3fd1649e33039ce955191888a01c0742aa31a0f9",
+        "size": 257
+      },
+      {
+        "path": "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt",
+        "sha1": "ba336c431bacbea47e0344abe774295233540a0c",
+        "size": 683
+      },
+      {
+        "path": "config/jade/hide-blocks.json",
+        "sha1": "a503776a467ca75d97916f99bf665dbf64a521a9",
+        "size": 149
+      },
+      {
+        "path": "config/jade/hide-entities.json",
+        "sha1": "ef2152a130cc5ff42903c76e69c3e4279d94b9e7",
+        "size": 243
+      },
+      {
+        "path": "config/jade/jade.json",
+        "sha1": "ae3ef97881081e510963e5d173907f9488880e13",
+        "size": 1090
+      },
+      {
+        "path": "config/jade/plugins.json",
+        "sha1": "857fb999f63de729d18fde7915a92f9708668294",
+        "size": 2700
+      },
+      {
+        "path": "config/jade/sort-order.json",
+        "sha1": "df1ceb0450ea65973ce15037ad3b684e8164255f",
+        "size": 2918
+      },
+      {
+        "path": "config/jamlib/known_suspicious_jars.txt",
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "size": 0
+      },
+      {
+        "path": "config/jewelry/features.json",
+        "sha1": "aa5db0fd6cf17173d71242df29631333fd1ee588",
+        "size": 41
+      },
+      {
+        "path": "config/jewelry/items_v8.json",
+        "sha1": "c99a8f7867842e81d9552fe8decddeeede602ce0",
+        "size": 18156
+      },
+      {
+        "path": "config/jewelry/villages.json",
+        "sha1": "a50885f2f89ae42179aceba6ccbd5f97cf9b6613",
+        "size": 1074
+      },
+      {
+        "path": "config/konkrete/locals/de_de.local",
+        "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+        "size": 369
+      },
+      {
+        "path": "config/konkrete/locals/en_us.local",
+        "sha1": "42badc338e767559db38a67bd3e8020a92000e56",
+        "size": 426
+      },
+      {
+        "path": "config/konkrete/locals/pl_pl.local",
+        "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+        "size": 313
+      },
+      {
+        "path": "config/konkrete/locals/pt_br.local",
+        "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+        "size": 322
+      },
+      {
+        "path": "config/lambdynlights.toml",
+        "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2",
+        "size": 1448
+      },
+      {
+        "path": "config/libtooltips-client.toml",
+        "sha1": "4ba1431f5678cc9256f2c0a6224c2a1a66d09e68",
+        "size": 192
+      },
+      {
+        "path": "config/lithium.properties",
+        "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+        "size": 267
+      },
+      {
+        "path": "config/lodestone-client.toml",
+        "sha1": "9ba4f131b02a7c4d3f8509c3a7701ffbfec9312f",
+        "size": 925
+      },
+      {
+        "path": "config/lootr-client.toml",
+        "sha1": "bdf2664a9c266bc275de77b91eb7fc3b7f7d37a3",
+        "size": 1301
+      },
+      {
+        "path": "config/lootr-common.toml",
+        "sha1": "7d397225e5497b0943d2eb74ede48ee884dd0988",
+        "size": 9040
+      },
+      {
+        "path": "config/malum-client-1.toml.bak",
+        "sha1": "c898071141fae8ae9885418a12ba4f74828781fd",
+        "size": 977
+      },
+      {
+        "path": "config/malum-client-2.toml.bak",
+        "sha1": "c898071141fae8ae9885418a12ba4f74828781fd",
+        "size": 977
+      },
+      {
+        "path": "config/malum-client-3.toml.bak",
+        "sha1": "c898071141fae8ae9885418a12ba4f74828781fd",
+        "size": 977
+      },
+      {
+        "path": "config/malum-client-4.toml.bak",
+        "sha1": "c898071141fae8ae9885418a12ba4f74828781fd",
+        "size": 977
+      },
+      {
+        "path": "config/malum-client-5.toml.bak",
+        "sha1": "c898071141fae8ae9885418a12ba4f74828781fd",
+        "size": 977
+      },
+      {
+        "path": "config/malum-client.toml",
+        "sha1": "c898071141fae8ae9885418a12ba4f74828781fd",
+        "size": 977
+      },
+      {
+        "path": "config/malum-common.toml",
+        "sha1": "f712c7deaa9cc4275b68b73067beb60ba04008fd",
+        "size": 1881
+      },
+      {
+        "path": "config/mcqoy.toml",
+        "sha1": "3b10f656c1b34506cd76f1726a79ce7934be72d0",
+        "size": 1676
+      },
+      {
+        "path": "config/meadow-common.toml",
+        "sha1": "090ed7e4cfcd835af4e71a0790c54ae9428186fe",
+        "size": 11152
+      },
+      {
+        "path": "config/mobspawncontroller/rules.json",
+        "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+        "size": 2
+      },
+      {
+        "path": "config/modelfix-client.toml",
+        "sha1": "1b30c811223251945b8593ecaa431f0c65fd9e3c",
+        "size": 1383
+      },
+      {
+        "path": "config/moogs_paths.json",
+        "sha1": "e768ab7b05a0ca1f4012822c8a1c254bf9fc7754",
+        "size": 1245
+      },
+      {
+        "path": "config/moogs_structures.json",
+        "sha1": "027c7b1ccfaebf19bdaa90b1fe510e752d37312e",
+        "size": 750
+      },
+      {
+        "path": "config/moonlight-client.toml",
+        "sha1": "e88b87fb5f58e4f6b55b5f41abac3dadf1d62860",
+        "size": 2320
+      },
+      {
+        "path": "config/moonlight-common.toml",
+        "sha1": "1f62002e06c865342690eea17511a19503da3d5d",
+        "size": 960
+      },
+      {
+        "path": "config/mowziesmobs-client.toml",
+        "sha1": "35672ec497330e7ef0143aa9ff5f0daccab3bd92",
+        "size": 980
+      },
+      {
+        "path": "config/mowziesmobs-common.toml",
+        "sha1": "deec1315d9c15484f26eeddfe25abe3594bcf79a",
+        "size": 37854
+      },
+      {
+        "path": "config/mrpg_lib/effects_v4.json",
+        "sha1": "cb504d4080e23a5c8e015f667b7371a4b7953890",
+        "size": 3979
+      },
+      {
+        "path": "config/mrpg_lib/elemental_weaknesses.json",
+        "sha1": "edaad83e6d146193ab5e6d061f0654d65ca35a3f",
+        "size": 3223
+      },
+      {
+        "path": "config/mrpg_lib/loot.json",
+        "sha1": "985367c882f074682bc65f34848f4b80476b0b53",
+        "size": 1071
+      },
+      {
+        "path": "config/mrpg_lib/tweaks_v2.json",
+        "sha1": "e6807d476fe9241fef6dcc57a007745173eb6527",
+        "size": 768
+      },
+      {
+        "path": "config/mynethersdelight-common.toml",
+        "sha1": "94fa84d87cf480226612ea801ba45a563a737b8d",
+        "size": 1912
+      },
+      {
+        "path": "config/naturalist-client.toml",
+        "sha1": "9fbc84afd3ec0a9a3e0d5f9ea23169bdc78784e7",
+        "size": 26
+      },
+      {
+        "path": "config/naturalist-server.toml",
+        "sha1": "35fb6f0f24df27188b44934405d91428dabd1dd0",
+        "size": 1525
+      },
+      {
+        "path": "config/neoforge-client.toml",
+        "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
+        "size": 578
+      },
+      {
+        "path": "config/neoforge-common.toml",
+        "sha1": "2e904b9a9bf2c03e8dfe4d0b3b43dee9965c062b",
+        "size": 1050
+      },
+      {
+        "path": "config/neoforge-server.toml",
+        "sha1": "536538f1f29efb49318318113530bd4fd74c235b",
+        "size": 1177
+      },
+      {
+        "path": "config/notenoughanimations.json",
+        "sha1": "94adfc50f01a8c0719b38b1c55818984ee8831a8",
+        "size": 3273
+      },
+      {
+        "path": "config/obscuria/aquamirae-client.toml",
+        "sha1": "70e475dc05b59590e303a94399d9ff88a3797bb7",
+        "size": 618
+      },
+      {
+        "path": "config/obscuria/aquamirae-common.toml",
+        "sha1": "0ab25f2412ebed79f818d7e80cd211b58dced359",
+        "size": 5967
+      },
+      {
+        "path": "config/obscuria/cache/aquamirae-keepsakes.json",
+        "sha1": "944496ad821dbd8bb381ab8a5828c5096eda2394",
+        "size": 3227
+      },
+      {
+        "path": "config/offroad-server.toml",
+        "sha1": "ffcf430144dfb7acb9839fdfcc7cc97bc2922365",
+        "size": 1167
+      },
+      {
+        "path": "config/oritech-client.toml",
+        "sha1": "e39cbae3e3db7222f4c385eeaa33aa1c84c96042",
+        "size": 461
+      },
+      {
+        "path": "config/oritech-common.toml",
+        "sha1": "031c7d587e8c391bbc1af47c4aad16a019e6cb9f",
+        "size": 15654
+      },
+      {
+        "path": "config/oritech-startup.toml",
+        "sha1": "75279763ebaf47003530308904f7ade11d4baf73",
+        "size": 4239
+      },
+      {
+        "path": "config/paladins/effects.json",
+        "sha1": "1ff445e194fb13e09ba2af3960f0cfad4ff3dd7d",
+        "size": 1423
+      },
+      {
+        "path": "config/paladins/equipment_v2.json",
+        "sha1": "d37d7fa2d28df288d1a26ac49dc3490edf71e04e",
+        "size": 11947
+      },
+      {
+        "path": "config/paladins/shields.json",
+        "sha1": "614254e6abdc27bc89552fe3613c8313a22cff86",
+        "size": 1934
+      },
+      {
+        "path": "config/paladins/summoned_entities.json",
+        "sha1": "8dbbc7363ca63c7f7339e380057dccd99cc08ea0",
+        "size": 415
+      },
+      {
+        "path": "config/paladins/tweaks.json",
+        "sha1": "6eecd1a3f6ea3ea82e399563489ca53b2343181c",
+        "size": 78
+      },
+      {
+        "path": "config/paladins/villages.json",
+        "sha1": "e89848b37a2f1c235a811771dbe4235a8d0ccccf",
+        "size": 1064
+      },
+      {
+        "path": "config/patchouli-client.toml",
+        "sha1": "fca303723bcd692f1d64b76c7cf303afa46fc142",
+        "size": 1089
+      },
+      {
+        "path": "config/pneumaticcraft-client.toml",
+        "sha1": "e718e29ca586065893a1812f9e8cd8cb1cc54e04",
+        "size": 4438
+      },
+      {
+        "path": "config/pneumaticcraft-common.toml",
+        "sha1": "511ab9409156cd88c1620229d44166286106dca9",
+        "size": 23788
+      },
+      {
+        "path": "config/pneumaticcraft/ArmorFeatureStatus.cfg",
+        "sha1": "bd583aabb16a9dae322aa7f6c93b413061ce4855",
+        "size": 1677
+      },
+      {
+        "path": "config/pneumaticcraft/MicromissileDefaults.cfg",
+        "sha1": "37d1101b143fe98bdde493fc721f9f72d7ccc07a",
+        "size": 99
+      },
+      {
+        "path": "config/pneumaticcraft/PneumaticArmorHUDLayout.cfg",
+        "sha1": "37d2f7ada23846a105f01a74ac966babf32269f7",
+        "size": 92
+      },
+      {
+        "path": "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg",
+        "sha1": "5baa7e5a7ad39a74a0ece771d54ba9f287716779",
+        "size": 2520
+      },
+      {
+        "path": "config/pneumaticcraft/thirdparty.cfg",
+        "sha1": "04f3f474776ca19a011b41795c9fd923df1fec9c",
+        "size": 531
+      },
+      {
+        "path": "config/ponder-client.toml",
+        "sha1": "b502ba9ea972ce81ef602c964b3bc0bbd3401fd8",
+        "size": 635
+      },
+      {
+        "path": "config/puffish_skills/config.json",
+        "sha1": "b5b81101a7458b4c026d44b7dbd505105c5c5514",
+        "size": 42
+      },
+      {
+        "path": "config/quest_enhance-client.toml",
+        "sha1": "011a29d9d09ff8a109f3642c547e9445638988d6",
+        "size": 196
+      },
+      {
+        "path": "config/quest_enhance/pack.mcmeta",
+        "sha1": "5f8e479e6199621b75ae3e33105cc53516bad879",
+        "size": 122
+      },
+      {
+        "path": "config/refurbished_furniture.client.toml",
+        "sha1": "561e5d56e21f331ef339f50913f150eadac2c155",
+        "size": 1175
+      },
+      {
+        "path": "config/refurbished_furniture.server.toml",
+        "sha1": "d8c29dac646cc7e2db15b11f253ca29ba8c040e8",
+        "size": 8205
+      },
+      {
+        "path": "config/relics.yaml",
+        "sha1": "0f718226a3f08514c462959a86adb26d8032cea3",
+        "size": 1487
+      },
+      {
+        "path": "config/ribbits-neoforge-1_21_1.toml",
+        "sha1": "35d0bd4c7d2cb629f56610e8629da9e35b6b8926",
+        "size": 403
+      },
+      {
+        "path": "config/ribbits-options.json",
+        "sha1": "5c46abd638cfc5358ba7a469f87fd64d7050f4be",
+        "size": 33
+      },
+      {
+        "path": "config/rightclickharvest.json5",
+        "sha1": "803dc786a30a123759cd83d2e8f38d74f947c674",
+        "size": 609
+      },
+      {
+        "path": "config/rogues/effects.json",
+        "sha1": "5b06e3f8db866a3da0a75b2fb9638759030c60c3",
+        "size": 3093
+      },
+      {
+        "path": "config/rogues/equipment_v3.json",
+        "sha1": "af5ecb2b62306e5082d22ea1232e8dda7374c821",
+        "size": 23288
+      },
+      {
+        "path": "config/rogues/tweaks.json",
+        "sha1": "73ba6aa99d74f8464701488e5f20ca176d9e487b",
+        "size": 166
+      },
+      {
+        "path": "config/rogues/villages.json",
+        "sha1": "59222cbcc617f6e4c17d6642d9799e8b520583f9",
+        "size": 1049
+      },
+      {
+        "path": "config/rpg_series/loot_equipment_v2.json",
+        "sha1": "8bb79719e55e2a68f0c07d06568a2cd15760285a",
+        "size": 168700
+      },
+      {
+        "path": "config/rpg_series/loot_fallback_report.json",
+        "sha1": "9c0f82473dcc34eb34b6d32932cdc9f7ca143938",
+        "size": 176
+      },
+      {
+        "path": "config/rpg_series/loot_misc.json",
+        "sha1": "3f14e77a5cff8053f2d46bc8b0791b7c57ba876a",
+        "size": 224
+      },
+      {
+        "path": "config/rpg_series/loot_scrolls_v2.json",
+        "sha1": "758afeed2a5ab24c4b70fcafd70d6cb5deb7d89a",
+        "size": 31685
+      },
+      {
+        "path": "config/rpg_series/tag_cache.json",
+        "sha1": "7b7465aa5c70110864df1e877d14f42f515d3175",
+        "size": 21952
+      },
+      {
+        "path": "config/sable-client.toml",
+        "sha1": "3e3537c15a39ca1612447f3844d4fe261abf03a3",
+        "size": 946
+      },
+      {
+        "path": "config/sable-common.toml",
+        "sha1": "244d4c98d76f7a03afb6d731ae6150427f4c195f",
+        "size": 2243
+      },
+      {
+        "path": "config/sable-server.toml",
+        "sha1": "3e88b91b286a6b3903027b1b69440987df2e46f9",
+        "size": 328
+      },
+      {
+        "path": "config/selling_bin-client.toml",
+        "sha1": "9f1df8b5a3e7ea73949833d201ca89954f3c63c1",
+        "size": 131
+      },
+      {
+        "path": "config/selling_bin-server.toml",
+        "sha1": "6f731c59433e0e17541840067727d30522e9c3fc",
+        "size": 118
+      },
+      {
+        "path": "config/serilum/beautifiedchatclient.json",
+        "sha1": "e265143f647254cd893cd9dff112308ebc0f0e1b",
+        "size": 2809
+      },
+      {
+        "path": "config/serilum/collective.json",
+        "sha1": "c92ebcfb9fec122ec7bcbb61ecc48838d697579c",
+        "size": 3147
+      },
+      {
+        "path": "config/server-samurai-server.toml",
+        "sha1": "b898c03f6d003857bbd61bf645a64863e774ffa3",
+        "size": 778
+      },
+      {
+        "path": "config/simulated-client.toml",
+        "sha1": "ab18703bfa8de8df6bac639cfbb8892f27350067",
+        "size": 1045
+      },
+      {
+        "path": "config/simulated-server.toml",
+        "sha1": "987252f401c9ed893c7639894bb5c4a4b78f8fe8",
+        "size": 7249
+      },
+      {
+        "path": "config/skill_tree_rpgs/effects.json",
+        "sha1": "de22178296cba06409bb78cb34f66c46a4496fae",
+        "size": 19
+      },
+      {
+        "path": "config/skinlayers.json",
+        "sha1": "9552e0366319f47881639dbcb36713bbfad98a58",
+        "size": 497
+      },
+      {
+        "path": "config/skinrestorer/config.json",
+        "sha1": "2a889942ea0d4d0ebaa5375698050afff74facf0",
+        "size": 1206
+      },
+      {
+        "path": "config/sleep_tight-client.toml",
+        "sha1": "3d383f21134dbc86ade8d5b1a256e461eded02b9",
+        "size": 1767
+      },
+      {
+        "path": "config/sleep_tight-common.toml",
+        "sha1": "f9b03af5639f9ecf40e0a7c57abb7b449ac8e2c2",
+        "size": 8341
+      },
+      {
+        "path": "config/sodium-extra-options.json",
+        "sha1": "2cd4fd259b6c7ba9f33acaf7d1b197d9c88eb3d8",
+        "size": 2175
+      },
+      {
+        "path": "config/sodium-extra.properties",
+        "sha1": "e90b2514226a0624cf42112b42477f9872598b89",
+        "size": 360
+      },
+      {
+        "path": "config/sodium-fingerprint.json",
+        "sha1": "6f20701c452594174edea10f34d281b8b684c4d8",
+        "size": 427
+      },
+      {
+        "path": "config/sodium-mixins.properties",
+        "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+        "size": 258
+      },
+      {
+        "path": "config/sodium-options.json",
+        "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48",
+        "size": 762
+      },
+      {
+        "path": "config/solcarrot-client.toml",
+        "sha1": "531388ecf17f6e94a938922fd5267467c9d0e9bb",
+        "size": 720
+      },
+      {
+        "path": "config/solcarrot-server.toml",
+        "sha1": "7df86271c761ccbd8d92e02698befb84e76e9ef3",
+        "size": 1128
+      },
+      {
+        "path": "config/sound_physics_remastered/occlusion.properties",
+        "sha1": "63e8843f243c38bc7aa44d99ce4f562991890350",
+        "size": 4831
+      },
+      {
+        "path": "config/sound_physics_remastered/reflectivity.properties",
+        "sha1": "95feb43eb67757038518212b08739cb39bb9763e",
+        "size": 4713
+      },
+      {
+        "path": "config/sound_physics_remastered/sound_rates.properties",
+        "sha1": "e45df923905b684024d1c8f085e404542d51d6e0",
+        "size": 183762
+      },
+      {
+        "path": "config/sound_physics_remastered/soundphysics.properties",
+        "sha1": "d28f5f62aebcbe96ce0ad333b8cb8298776d20f8",
+        "size": 5104
+      },
+      {
+        "path": "config/sounds/chat.json",
+        "sha1": "660c306a95e2a83c9552e4e1bb500bf2b52c4c45",
+        "size": 587
+      },
+      {
+        "path": "config/sounds/event.json",
+        "sha1": "51e5dc03b50c488314a9a79a63220bed1dbca417",
+        "size": 797
+      },
+      {
+        "path": "config/sounds/mod_utils.json",
+        "sha1": "0d227098e7daa4977322bf4edbb7e36b0c83d175",
+        "size": 41
+      },
+      {
+        "path": "config/sounds/ui.json",
+        "sha1": "35b9b90bc13596c5b9109f1cadb81417722ecadc",
+        "size": 2108
+      },
+      {
+        "path": "config/sounds/world.json",
+        "sha1": "8a152dee53a944ed55614ff7ad036eb354a6a809",
+        "size": 1778
+      },
+      {
+        "path": "config/spell_engine/client.json5",
+        "sha1": "4d06c2065ed119754b17f23c7adf71bb3aea4951",
+        "size": 863
+      },
+      {
+        "path": "config/spell_engine/elemental_weaknesses.json",
+        "sha1": "8b93da953ccc9c698c6f60026b73278559289ee3",
+        "size": 2526
+      },
+      {
+        "path": "config/spell_engine/hud_config.json",
+        "sha1": "157c2402b01b6c69718cd660f727358ac7f071ea",
+        "size": 573
+      },
+      {
+        "path": "config/spell_engine/server.json5",
+        "sha1": "2f9d222d0adcaf9d28010e7270580b2545e0e0a6",
+        "size": 6465
+      },
+      {
+        "path": "config/spell_engine/spell_container_templates_v2.json",
+        "sha1": "8f15779e31422eb7890ba6f3ee16155147bd0e42",
+        "size": 178
+      },
+      {
+        "path": "config/spell_engine/weapon_fallback.json",
+        "sha1": "c72e4c8f038e13607be4d914149ec3b173f8ac23",
+        "size": 7397
+      },
+      {
+        "path": "config/spell_power/attributes.json",
+        "sha1": "bc2506557ee59bf60cb7f852474749b4a227ded0",
+        "size": 644
+      },
+      {
+        "path": "config/starcatcher-client.toml",
+        "sha1": "683d53077998015bb9769cff35c79fb12f07f902",
+        "size": 1916
+      },
+      {
+        "path": "config/starcatcher-server.toml",
+        "sha1": "58f9fa2d25ad1b72782929ea5cf213df8361b677",
+        "size": 3030
+      },
+      {
+        "path": "config/structurify.json",
+        "sha1": "ba3f4873562089e806611efc698b8495658795db",
+        "size": 1187
+      },
+      {
+        "path": "config/structurify/structurify_backup_2026-11-04_18-54-20.json",
+        "sha1": "440a301061ec2068ab0fe9cd85ce668e1f53e327",
+        "size": 201
+      },
+      {
+        "path": "config/supplementaries-client.toml",
+        "sha1": "17118754f8c5b157421be7c3fe4b6bdbad00133d",
+        "size": 9113
+      },
+      {
+        "path": "config/supplementaries-common.toml",
+        "sha1": "4e231f64c27cbc8cd59bcb2db9babe2b3d37be52",
+        "size": 32792
+      },
+      {
+        "path": "config/suppsquared-common.toml",
+        "sha1": "959761668723bcaeb47cc51cf85e68c8da9efe33",
+        "size": 84
+      },
+      {
+        "path": "config/surveyor.toml",
+        "sha1": "159333d430ff2f5b29a7387301573406e53fc717",
+        "size": 4873
+      },
+      {
+        "path": "config/tab/animations.yml",
+        "sha1": "efb4c23422a819202207ef823491e13a5f4232dc",
+        "size": 2526
+      },
+      {
+        "path": "config/tab/config.yml",
+        "sha1": "606627acdaf9748a98bdca55789ed6c8fc340539",
+        "size": 9368
+      },
+      {
+        "path": "config/tab/groups.yml",
+        "sha1": "073b040d480617cb310dac2756ada2c634c9dc64",
+        "size": 598
+      },
+      {
+        "path": "config/tab/messages.yml",
+        "sha1": "c9e4d2f0815fa831e92767961d272568f1804a0f",
+        "size": 4942
+      },
+      {
+        "path": "config/tab/playerdata.yml",
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "size": 0
+      },
+      {
+        "path": "config/tab/skincache.yml",
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "size": 0
+      },
+      {
+        "path": "config/tab/users.yml",
+        "sha1": "125c495e17ebc1db14500f55788aa4023eeac331",
+        "size": 154
+      },
+      {
+        "path": "config/terrablender.toml",
+        "sha1": "194a663d21fe1df84f7230013c470329088fa710",
+        "size": 988
+      },
+      {
+        "path": "config/tinymultiblocklib-client.toml",
+        "sha1": "817b3e10e5660742cbb2aac47a5803f28f997304",
+        "size": 328
+      },
+      {
+        "path": "config/titanium/titanium-tags.toml",
+        "sha1": "9dc6a1aeec693c82f12a49de72ccc31b24c4c4da",
+        "size": 344
+      },
+      {
+        "path": "config/titanium/titanium.toml",
+        "sha1": "f28dbda780989d1f570b087a3fa0ffeb942dd99d",
+        "size": 255
+      },
+      {
+        "path": "config/toms_storage-common.toml",
+        "sha1": "59b3401c12ac8337f5ebba44223b5f86673d7336",
+        "size": 844
+      },
+      {
+        "path": "config/toms_storage-server.toml",
+        "sha1": "c4db75e3d8d696eebadd268b839506aece450f97",
+        "size": 1933
+      },
+      {
+        "path": "config/transition.json",
+        "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
+        "size": 97
+      },
+      {
+        "path": "config/trender.json",
+        "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
+        "size": 47
+      },
+      {
+        "path": "config/twilightforest-client.toml",
+        "sha1": "4889166be9aa0d7d2fb43dfa71099a8f015d3ada",
+        "size": 2997
+      },
+      {
+        "path": "config/twilightforest-common.toml",
+        "sha1": "5fe61b124ca912f0e0a991499a11938a8da9bd44",
+        "size": 9324
+      },
+      {
+        "path": "config/valhelsia_structures-client.toml",
+        "sha1": "0a2b74a65536b36a1003e705fafb8b1a728817bc",
+        "size": 106
+      },
+      {
+        "path": "config/vinery-common.toml",
+        "sha1": "6c6b57c17d161fd8ae1b918763dde818b709283c",
+        "size": 6841
+      },
+      {
+        "path": "config/vista-client.toml",
+        "sha1": "041fa9dffee2a1704625bba76472d66f0c84c13f",
+        "size": 6446
+      },
+      {
+        "path": "config/vista-common.toml",
+        "sha1": "0605411e767cb7eec37a1a6103ee5f68312e7720",
+        "size": 2929
+      },
+      {
+        "path": "config/voicechat/category-volumes.properties",
+        "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
+        "size": 46
+      },
+      {
+        "path": "config/voicechat/player-volumes.properties",
+        "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
+        "size": 44
+      },
+      {
+        "path": "config/voicechat/translations.properties",
+        "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+        "size": 1182
+      },
+      {
+        "path": "config/voicechat/username-cache.json",
+        "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+        "size": 2
+      },
+      {
+        "path": "config/voicechat/voicechat-client.properties",
+        "sha1": "eb3bbb5d3ab6c86b5967ef2917b5d142ec5a4b0b",
+        "size": 5196
+      },
+      {
+        "path": "config/voicechat/voicechat-server.properties",
+        "sha1": "eb76fd8f4172efdfcdd460cab7aa670542d220c8",
+        "size": 3214
+      },
+      {
+        "path": "config/wildernature-common.toml",
+        "sha1": "5047957b9666dabc6bc24960fffd47a3ca774993",
+        "size": 8573
+      },
+      {
+        "path": "config/wizards/effects.json",
+        "sha1": "ac233095d13d4d8f676807b61a5e07ca32ce77bb",
+        "size": 1512
+      },
+      {
+        "path": "config/wizards/equipment_v2.json",
+        "sha1": "2a04b0feb031a542f40d68a23923d2cdc5659cbe",
+        "size": 16093
+      },
+      {
+        "path": "config/wizards/summoned_entities.json",
+        "sha1": "b29931581a94d93a4f09b6eec7db591ddd72f180",
+        "size": 912
+      },
+      {
+        "path": "config/wizards/tweaks.json",
+        "sha1": "ec613117b39c59fc335c3e7545387c38ac76ad90",
+        "size": 83
+      },
+      {
+        "path": "config/wizards/villages.json",
+        "sha1": "668b8c089195d08f3424c0ff6516297baf111ce2",
+        "size": 1317
+      },
+      {
+        "path": "config/wover/cached.json",
+        "sha1": "dcb334fc09b9f0c6a23ad085971b967030f4d632",
+        "size": 138
+      },
+      {
+        "path": "config/wover/client.json",
+        "sha1": "8b9b2060032d4729218a0be5ef3d380d080de881",
+        "size": 309
+      },
+      {
+        "path": "config/wover/main.json",
+        "sha1": "2dda1d654683b2c585ad97314b280aaa51e91bfb",
+        "size": 158
+      },
+      {
+        "path": "config/yacl.json5",
+        "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
+        "size": 250
+      },
+      {
+        "path": "config/yigd.json",
+        "sha1": "6175addecb1a09c9e1b62985dd7ac34a43989e66",
+        "size": 5370
+      },
+      {
+        "path": "mods/.index/3dskinlayers.pw.toml",
+        "sha1": "c843e6efc08d922e89d73b6bb11aa8d1f875de8d",
+        "size": 648
+      },
+      {
+        "path": "mods/.index/ambientsounds.pw.toml",
+        "sha1": "98e41cb37e202e77ecb9f6c90cebfe24c6d20577",
+        "size": 690
+      },
+      {
+        "path": "mods/.index/amendments.pw.toml",
+        "sha1": "545d4510568886cd9040795898b672f82deae882",
+        "size": 525
+      },
+      {
+        "path": "mods/.index/antique-atlas-4.pw.toml",
+        "sha1": "5fbae180ddac328dacceffbfa0565ce742b0e19c",
+        "size": 680
+      },
+      {
+        "path": "mods/.index/appleskin.pw.toml",
+        "sha1": "fe4138affcd45df0bd8cc1641f8f390e0942dd5d",
+        "size": 653
+      },
+      {
+        "path": "mods/.index/aquamirae.pw.toml",
+        "sha1": "5f5f41617fb687e38e6fbe8d66774b311bead1c1",
+        "size": 600
+      },
+      {
+        "path": "mods/.index/archers.pw.toml",
+        "sha1": "23d3c545aca5ac5dcc6dc8bcd9514369e1a8ac85",
+        "size": 738
+      },
+      {
+        "path": "mods/.index/architectury-api.pw.toml",
+        "sha1": "4a6997d79cf1d87e9c565dc85d64bb6eb5a3f2dd",
+        "size": 650
+      },
+      {
+        "path": "mods/.index/armor-model-api.pw.toml",
+        "sha1": "a90776331fc50d1b0cbcfedc39d6eeeca982d0a7",
+        "size": 483
+      },
+      {
+        "path": "mods/.index/arsenal-rpg-series.pw.toml",
+        "sha1": "d9ab9fe464da767fb3b75f4b8616ff39b36508d2",
+        "size": 668
+      },
+      {
+        "path": "mods/.index/athena.pw.toml",
+        "sha1": "6728e1a52f9749ee1bd59fe6f0f453364dc76d25",
+        "size": 469
+      },
+      {
+        "path": "mods/.index/azurelib.pw.toml",
+        "sha1": "34d7cb914e061ee968bcaa86597d436c2b07dafb",
+        "size": 480
+      },
+      {
+        "path": "mods/.index/backpacked.pw.toml",
+        "sha1": "8c16b6443454a67185959a16f344d4605c3fa8b4",
+        "size": 649
+      },
+      {
+        "path": "mods/.index/bard-more-rpg-classes.pw.toml",
+        "sha1": "66b81b510921333d9a220492ef6bb2578c1f51df",
+        "size": 815
+      },
+      {
+        "path": "mods/.index/bclib-neoforge.pw.toml",
+        "sha1": "75375c855b3ceeb8eb8fb7d7ec43967e0d584601",
+        "size": 587
+      },
+      {
+        "path": "mods/.index/beautified-chat-client.pw.toml",
+        "sha1": "5c4b72c6eddf05d9801d4fa3974f1bd4de9324e9",
+        "size": 594
+      },
+      {
+        "path": "mods/.index/berserker-rpg-class.pw.toml",
+        "sha1": "13e0ecbfbb4a496b6fd188434ce98dd0170dc31b",
+        "size": 681
+      },
+      {
+        "path": "mods/.index/better-combat-by-daedelus.pw.toml",
+        "sha1": "043dac8c216f54ab4eb6b769c5785b43227ae549",
+        "size": 630
+      },
+      {
+        "path": "mods/.index/better-end-cities-better-end.pw.toml",
+        "sha1": "6514627f74d6cc12d261ffc2ed7f3995e8277add",
+        "size": 721
+      },
+      {
+        "path": "mods/.index/betterend-neoforge.pw.toml",
+        "sha1": "ad07fd64141155d3b3fb24d06132ecd6d88a7b54",
+        "size": 671
+      },
+      {
+        "path": "mods/.index/betternether-neoforge.pw.toml",
+        "sha1": "8c13c045e5978534d09180c099694b6702691305",
+        "size": 680
+      },
+      {
+        "path": "mods/.index/biomes-o-plenty.pw.toml",
+        "sha1": "30eaaaa455209d7a0d60a8be754efb739aa66c5d",
+        "size": 764
+      },
+      {
+        "path": "mods/.index/bookshelf-lib.pw.toml",
+        "sha1": "ebfe88b8568e04f7f20df6d357e29dbb01adc496",
+        "size": 634
+      },
+      {
+        "path": "mods/.index/bosses-of-mass-destruction-forge.pw.toml",
+        "sha1": "d2bfdf6be449915d3e5f99b249b7c48262f1265e",
+        "size": 702
+      },
+      {
+        "path": "mods/.index/bossesrise.pw.toml",
+        "sha1": "ddb3c49bd9e6b434f0c52e5a5766e91c39f8dbcb",
+        "size": 560
+      },
+      {
+        "path": "mods/.index/bundle-api.pw.toml",
+        "sha1": "730199b9b585369094e969a2ff7fdc1bb281c728",
+        "size": 485
+      },
+      {
+        "path": "mods/.index/cerbons-api.pw.toml",
+        "sha1": "63b527e5c9bd28c4c0e116d176b58c519c205744",
+        "size": 561
+      },
+      {
+        "path": "mods/.index/chat-heads.pw.toml",
+        "sha1": "88f9956322f7c3d008c989e8720079157b0d820c",
+        "size": 679
+      },
+      {
+        "path": "mods/.index/chatanimation.pw.toml",
+        "sha1": "cae8fe2bae0e7892c9769402f856fa2035fa1b3f",
+        "size": 681
+      },
+      {
+        "path": "mods/.index/cloth-config.pw.toml",
+        "sha1": "91b62c16d87fd9a520a9d72b0bd6575db9b8d205",
+        "size": 515
+      },
+      {
+        "path": "mods/.index/collective.pw.toml",
+        "sha1": "f459ea34a5631c55925fd9407e5ff9f48360eaf0",
+        "size": 523
+      },
+      {
+        "path": "mods/.index/connector.pw.toml",
+        "sha1": "b1d7b56cef6a242c8363495fd602ab7d89b5cec2",
+        "size": 770
+      },
+      {
+        "path": "mods/.index/create-aeronautics.pw.toml",
+        "sha1": "cfbf5e9ac7deba27685d7f562d125ff0bc08c666",
+        "size": 774
+      },
+      {
+        "path": "mods/.index/create-alloyed.pw.toml",
+        "sha1": "34da77549c04d3cf213f983842e1e4d30206509e",
+        "size": 825
+      },
+      {
+        "path": "mods/.index/create-deco.pw.toml",
+        "sha1": "4ee00b5b5ca13ddfebff1bb7d54f9b8f329c49ee",
+        "size": 600
+      },
+      {
+        "path": "mods/.index/create.pw.toml",
+        "sha1": "eab66d017f4a2e3aa6ae068101561d9be550c26a",
+        "size": 613
+      },
+      {
+        "path": "mods/.index/createaddition.pw.toml",
+        "sha1": "58ef01345421baecd74d66f4b16529c1f29829c1",
+        "size": 638
+      },
+      {
+        "path": "mods/.index/creativecore.pw.toml",
+        "sha1": "db0b8e8c439c2790cf1536bb78a5ff8d2b5a94e8",
+        "size": 649
+      },
+      {
+        "path": "mods/.index/critical-strike.pw.toml",
+        "sha1": "35f4eee66bb94c2adbb43cf07e6e80108b8e8ee2",
+        "size": 514
+      },
+      {
+        "path": "mods/.index/cubes-without-borders.pw.toml",
+        "sha1": "7d8b9029da3ecbca4f04c60bb900af4eac069c20",
+        "size": 999
+      },
+      {
+        "path": "mods/.index/curios.pw.toml",
+        "sha1": "95ad26506ff9a12e9c644847b694c22354b1c825",
+        "size": 632
+      },
+      {
+        "path": "mods/.index/delightful-creators-forge.pw.toml",
+        "sha1": "c35e4087f566859a2c6e26e88da6e123932b0b4b",
+        "size": 530
+      },
+      {
+        "path": "mods/.index/display-delight.pw.toml",
+        "sha1": "4f4949c9c2e4d168b9988ea2c9766f65cef7f819",
+        "size": 1581
+      },
+      {
+        "path": "mods/.index/drippy-loading-screen.pw.toml",
+        "sha1": "d7191a9cee9a2bbf93c13dc9afdf8ac5a37d3d78",
+        "size": 683
+      },
+      {
+        "path": "mods/.index/dynamic-fps.pw.toml",
+        "sha1": "d05f10b6770f17506c16b56992a40591328325d7",
+        "size": 708
+      },
+      {
+        "path": "mods/.index/easy-npc-config-ui.pw.toml",
+        "sha1": "c8ad417e5b2bc3d18659a75785e5d2a903777d40",
+        "size": 634
+      },
+      {
+        "path": "mods/.index/easy-npc-core.pw.toml",
+        "sha1": "6c564d4e22d058fd19b8019a18c9be3356ae48b5",
+        "size": 608
+      },
+      {
+        "path": "mods/.index/easynpc-x-ftb-quests-compat.pw.toml",
+        "sha1": "0a467c362b803cb445c90abcad2904569875524a",
+        "size": 656
+      },
+      {
+        "path": "mods/.index/emi-enchanting.pw.toml",
+        "sha1": "5dc676129e0225626fd3edd406598cf34b26f598",
+        "size": 706
+      },
+      {
+        "path": "mods/.index/emi-loot.pw.toml",
+        "sha1": "208d3c3d30659f0113cf994a5f8802dcf11f0ec0",
+        "size": 835
+      },
+      {
+        "path": "mods/.index/emi.pw.toml",
+        "sha1": "3614466a6d7c50bdf9d57948e141ed28903ee195",
+        "size": 633
+      },
+      {
+        "path": "mods/.index/emiffect.pw.toml",
+        "sha1": "821ea6566468c42e850fcb33413e8854a6db44a7",
+        "size": 681
+      },
+      {
+        "path": "mods/.index/emotecraft-forge.pw.toml",
+        "sha1": "dcc1b960a8afc41c840ae983f814056f0403311a",
+        "size": 620
+      },
+      {
+        "path": "mods/.index/enchantment-descriptions.pw.toml",
+        "sha1": "695bd01a2081800a50bfa6cb980675fb581c8144",
+        "size": 759
+      },
+      {
+        "path": "mods/.index/endrem.pw.toml",
+        "sha1": "1fccef3424eb1dfab872603dca315f1917651e45",
+        "size": 635
+      },
+      {
+        "path": "mods/.index/ends-delight.pw.toml",
+        "sha1": "c411f641b2ceed1436d64fbdbb8c89f3dc171e48",
+        "size": 531
+      },
+      {
+        "path": "mods/.index/entity-model-features.pw.toml",
+        "sha1": "4ab08d6fcfcddef1893fe936aff4943b433e3365",
+        "size": 732
+      },
+      {
+        "path": "mods/.index/entityculling.pw.toml",
+        "sha1": "f941bf288450baafe3206ebc35c1247ed2131472",
+        "size": 650
+      },
+      {
+        "path": "mods/.index/entitytexturefeatures.pw.toml",
+        "sha1": "ba5a5988d03de944f185efe230de035c8a29aec2",
+        "size": 696
+      },
+      {
+        "path": "mods/.index/exposure-polaroid.pw.toml",
+        "sha1": "d8bcc317a8d66d5535aecbfdb5484e9a6fa0104c",
+        "size": 556
+      },
+      {
+        "path": "mods/.index/exposure.pw.toml",
+        "sha1": "a633595b4fe3d9bfeb260402f98b552e70d53fb0",
+        "size": 529
+      },
+      {
+        "path": "mods/.index/fancy-tab-sections.pw.toml",
+        "sha1": "14317f0e6d97d95f5bfc98d690d33751cd327224",
+        "size": 511
+      },
+      {
+        "path": "mods/.index/fancy-toasts.pw.toml",
+        "sha1": "92b15a1443dae5b460efd5c1ba7ad1b27ea04963",
+        "size": 501
+      },
+      {
+        "path": "mods/.index/fancymenu.pw.toml",
+        "sha1": "ac5e6ed9fadb5bb0746e083314892273255f252b",
+        "size": 598
+      },
+      {
+        "path": "mods/.index/farmers-delight.pw.toml",
+        "sha1": "a710dfa818f8ebcfeee9c63d6a9d9f1efc61f9fb",
+        "size": 492
+      },
+      {
+        "path": "mods/.index/fast-paintings.pw.toml",
+        "sha1": "3f8c4a4b9e045a3abfc19084a59b6fc0f5fdacb5",
+        "size": 535
+      },
+      {
+        "path": "mods/.index/ferrite-core.pw.toml",
+        "sha1": "6cd22e70e581506866fba99b8ce73f0b5ad66c02",
+        "size": 629
+      },
+      {
+        "path": "mods/.index/forbidden-arcanus.pw.toml",
+        "sha1": "b090e0545dc7c311c2c5c2867902ae8a00118cc5",
+        "size": 540
+      },
+      {
+        "path": "mods/.index/forgified-fabric-api.pw.toml",
+        "sha1": "de919d96b20d800704689ed2f31881f47019e522",
+        "size": 681
+      },
+      {
+        "path": "mods/.index/fragmentum-neoforge.pw.toml",
+        "sha1": "e6f37209d05a0f2021636a122bbe56303b355a44",
+        "size": 491
+      },
+      {
+        "path": "mods/.index/framework.pw.toml",
+        "sha1": "af615e0ecd47f8ac356cbcad7752813dbf2f4037",
+        "size": 576
+      },
+      {
+        "path": "mods/.index/friends-and-foes-forge.pw.toml",
+        "sha1": "796108183bd12e4f68634a79a4051485abb7ccc2",
+        "size": 619
+      },
+      {
+        "path": "mods/.index/ftb-library-forge.pw.toml",
+        "sha1": "f6573347ac2b40ba5afb4057cfe3c505e4fe0982",
+        "size": 689
+      },
+      {
+        "path": "mods/.index/ftb-quests-forge.pw.toml",
+        "sha1": "b4c08a17704c1bd180431126730fa67ec69f0b7c",
+        "size": 757
+      },
+      {
+        "path": "mods/.index/ftb-teams-forge.pw.toml",
+        "sha1": "91ee098c133936e612a67cd2c29ad8e6e605c910",
+        "size": 612
+      },
+      {
+        "path": "mods/.index/fzzy-config.pw.toml",
+        "sha1": "f6a1abea075a806f549421b2a165ec68a1ea9b66",
+        "size": 712
+      },
+      {
+        "path": "mods/.index/geckolib.pw.toml",
+        "sha1": "c7b70507ffa477e119eb7993feb6df1c090717b0",
+        "size": 477
+      },
+      {
+        "path": "mods/.index/geophilic.pw.toml",
+        "sha1": "4d45fd2ca04bfb8202bc279e550736bea8bd864e",
+        "size": 817
+      },
+      {
+        "path": "mods/.index/glitchcore.pw.toml",
+        "sha1": "16a7a0176f3be625933f249c02e6f5d4ec88ecba",
+        "size": 634
+      },
+      {
+        "path": "mods/.index/goated.pw.toml",
+        "sha1": "08766ba94b730e580ee5ecf1e91a0b8f16f43cc9",
+        "size": 613
+      },
+      {
+        "path": "mods/.index/immediatelyfast.pw.toml",
+        "sha1": "99dbb38508f95cb759a381378e704dbe669459ac",
+        "size": 677
+      },
+      {
+        "path": "mods/.index/immersive-aircraft.pw.toml",
+        "sha1": "7bab684d2efc6e4d646a0803e38538060f65a7e2",
+        "size": 849
+      },
+      {
+        "path": "mods/.index/immersive-armors.pw.toml",
+        "sha1": "1990cf588d78e515515a530454902bb7a3f39466",
+        "size": 658
+      },
+      {
+        "path": "mods/.index/immersive-engineering.pw.toml",
+        "sha1": "ce0bdee1e53ee1bbe80ad41c67769bf4417837e0",
+        "size": 515
+      },
+      {
+        "path": "mods/.index/immersive-melodies.pw.toml",
+        "sha1": "a2dddfb57f29db5c99fde3aa0a5393fd41b6de9d",
+        "size": 557
+      },
+      {
+        "path": "mods/.index/incendium.pw.toml",
+        "sha1": "ddee80a5724b35fc4a225c187f6debbab0149810",
+        "size": 529
+      },
+      {
+        "path": "mods/.index/iris-bonk.pw.toml",
+        "sha1": "037a959fd720bcc397726d60c3db3f4b9a88d140",
+        "size": 503
+      },
+      {
+        "path": "mods/.index/iris.pw.toml",
+        "sha1": "fbb49fcf8fcf070135e8e55bb4de15bdb46f6f77",
+        "size": 729
+      },
+      {
+        "path": "mods/.index/irons-lib.pw.toml",
+        "sha1": "ef349d9a4bd20cc2fb0a01802d20e7502375c61c",
+        "size": 510
+      },
+      {
+        "path": "mods/.index/irons-spells-n-spellbooks.pw.toml",
+        "sha1": "def0a3ed3e1f0aece73b7b396e1ea1e5cad08832",
+        "size": 740
+      },
+      {
+        "path": "mods/.index/jade.pw.toml",
+        "sha1": "0157c7dbe6c9ce68938aa82af2bbb776869b13d6",
+        "size": 517
+      },
+      {
+        "path": "mods/.index/jamlib.pw.toml",
+        "sha1": "6cdac683995910ec77dc02887c89f8bc6cc7c64f",
+        "size": 522
+      },
+      {
+        "path": "mods/.index/jewelry.pw.toml",
+        "sha1": "fc42d4193f65b2e3a69b08a1cb42796ad319b689",
+        "size": 737
+      },
+      {
+        "path": "mods/.index/konkrete.pw.toml",
+        "sha1": "d36f4699ff37136cacc76c76def27b1df7fa5494",
+        "size": 484
+      },
+      {
+        "path": "mods/.index/kotlin-for-forge.pw.toml",
+        "sha1": "227c4a32589b26225f7a205004c04014f24b00ff",
+        "size": 721
+      },
+      {
+        "path": "mods/.index/lambdynamiclights.pw.toml",
+        "sha1": "dcf192fc524a433feabcc3f0eec1c4b2e4324a08",
+        "size": 885
+      },
+      {
+        "path": "mods/.index/lendercataclysm.pw.toml",
+        "sha1": "28e6210d28494b7e3adb497553d05846d76daab4",
+        "size": 613
+      },
+      {
+        "path": "mods/.index/lets-do-addon-compat.pw.toml",
+        "sha1": "3782f00b8748fd2d8faafd2cfbc81ac1ebd238ee",
+        "size": 757
+      },
+      {
+        "path": "mods/.index/lets-do-bakery-farmcharm-compat.pw.toml",
+        "sha1": "e53c0a900d995e970d56753c9896592a243108ea",
+        "size": 765
+      },
+      {
+        "path": "mods/.index/lets-do-beachparty.pw.toml",
+        "sha1": "1921c4fe828b1c9e8351fdf69a6a171548a81bef",
+        "size": 754
+      },
+      {
+        "path": "mods/.index/lets-do-candlelight-farmcharm-compat.pw.toml",
+        "sha1": "7bc44c460066565721f521b9bab379a9232643d0",
+        "size": 780
+      },
+      {
+        "path": "mods/.index/lets-do-farm-charm.pw.toml",
+        "sha1": "a5dd39f55f87b2d25561f1e04e2c2881f53176fd",
+        "size": 694
+      },
+      {
+        "path": "mods/.index/lets-do-herbalbrews.pw.toml",
+        "sha1": "16fd469bcc670e92b93b2cecd2eb661293201869",
+        "size": 684
+      },
+      {
+        "path": "mods/.index/lets-do-meadow.pw.toml",
+        "sha1": "bc5c67a2ebc7c70d0327a2fcc98efe9fd570c8c0",
+        "size": 672
+      },
+      {
+        "path": "mods/.index/lets-do-vinery.pw.toml",
+        "sha1": "ebdb16e5457e6d035c339b302731261da7268994",
+        "size": 669
+      },
+      {
+        "path": "mods/.index/lets-do-wildernature.pw.toml",
+        "sha1": "f74b45bd90dcbde33ff4415dd4ccf52de924ea3d",
+        "size": 757
+      },
+      {
+        "path": "mods/.index/libtooltips.pw.toml",
+        "sha1": "e704af7228a0f4e3a84ec363a21435f719ef2fbd",
+        "size": 490
+      },
+      {
+        "path": "mods/.index/lionfish-api.pw.toml",
+        "sha1": "36acf0feaad49a66a2116cdb59d66b7c80cdeaf8",
+        "size": 465
+      },
+      {
+        "path": "mods/.index/lithium.pw.toml",
+        "sha1": "20dd7fdd0e5ec7b7a77a99f3e6d6f9d1747ce224",
+        "size": 649
+      },
+      {
+        "path": "mods/.index/lodestonelib.pw.toml",
+        "sha1": "007aa7cad185490d9e4908541ebbde3a3cddbd8b",
+        "size": 610
+      },
+      {
+        "path": "mods/.index/lootr.pw.toml",
+        "sha1": "8c8f66e810afa972259d7ee1f7d54d4480c8c344",
+        "size": 641
+      },
+      {
+        "path": "mods/.index/malum.pw.toml",
+        "sha1": "8de91465dbbd1b7f23c471f671d7ef1a3180d34d",
+        "size": 598
+      },
+      {
+        "path": "mods/.index/mbs-moogs-bountiful-structures.pw.toml",
+        "sha1": "20a56a636d304429524aa72aa1b355f76a94e434",
+        "size": 776
+      },
+      {
+        "path": "mods/.index/mcqoy.pw.toml",
+        "sha1": "3de958241e34ce2dd6fb40d73befe9f65f97a438",
+        "size": 601
+      },
+      {
+        "path": "mods/.index/melody.pw.toml",
+        "sha1": "c17b9ed2bb145894ebccb5bd803287371cfac3c3",
+        "size": 492
+      },
+      {
+        "path": "mods/.index/mmr-moogs-mineshafts-reimagined.pw.toml",
+        "sha1": "da6647fb777164952cb012498f105fcc30630d67",
+        "size": 824
+      },
+      {
+        "path": "mods/.index/mmv-moogs-missing-villages.pw.toml",
+        "sha1": "3086252a2f731627957ef4ce5109c06649de6d11",
+        "size": 809
+      },
+      {
+        "path": "mods/.index/mns-moogs-nether-structures.pw.toml",
+        "sha1": "779816d9fbcc8412321e9125051c7675c1dcd1b4",
+        "size": 811
+      },
+      {
+        "path": "mods/.index/mobspawncontroller.pw.toml",
+        "sha1": "27248b0c3e1339d2cec4b35e88283e57f209a456",
+        "size": 521
+      },
+      {
+        "path": "mods/.index/modelfix.pw.toml",
+        "sha1": "37ca8c959c39368a6201a9e9e91dfb7e288b0f93",
+        "size": 620
+      },
+      {
+        "path": "mods/.index/moogs-end-structures.pw.toml",
+        "sha1": "9c717ed2ec53e473bc4f030a5ba8a4c26cc4b6b5",
+        "size": 802
+      },
+      {
+        "path": "mods/.index/moogs-structure-lib.pw.toml",
+        "sha1": "5960e93fdbfb61b2abbdb266469aa3374fbcc222",
+        "size": 548
+      },
+      {
+        "path": "mods/.index/moogs-voyager-structures.pw.toml",
+        "sha1": "309373c2a70992728eeea79b6b023396371e205e",
+        "size": 814
+      },
+      {
+        "path": "mods/.index/more-rpg-library.pw.toml",
+        "sha1": "a97badef9e1a3065aba0074f08080b62aff7e515",
+        "size": 806
+      },
+      {
+        "path": "mods/.index/mos-moogs-ocean-structures.pw.toml",
+        "sha1": "f510a6fe6ad41601053057caca80db536dbbfba5",
+        "size": 809
+      },
+      {
+        "path": "mods/.index/mouse-tweaks.pw.toml",
+        "sha1": "897fb3a918984e2bcdca57932f77b76bdc7a9d24",
+        "size": 662
+      },
+      {
+        "path": "mods/.index/mowzies-mobs.pw.toml",
+        "sha1": "03d8e20cd7a2c3f67a6e105bf1b044535edf5e68",
+        "size": 513
+      },
+      {
+        "path": "mods/.index/mp-moogs-paths.pw.toml",
+        "sha1": "c69218df624bdd0203fc9ed68fd3c4e7e5b5751a",
+        "size": 511
+      },
+      {
+        "path": "mods/.index/mru.pw.toml",
+        "sha1": "a204e0278600f0951f44c9d9a77faa4d5cf35a01",
+        "size": 655
+      },
+      {
+        "path": "mods/.index/mss-moogs-soaring-structures.pw.toml",
+        "sha1": "07d12f8d09f41df463b6ff222a23802fd0c218ff",
+        "size": 815
+      },
+      {
+        "path": "mods/.index/mtr-moogs-temples-reimagined.pw.toml",
+        "sha1": "1eb479ea44f41ad991c1c05b8f0a3aeaa6be86e3",
+        "size": 815
+      },
+      {
+        "path": "mods/.index/mvsi-moogs-voyager-structures-integrated.pw.toml",
+        "sha1": "dc6ad0f2a6f4d2a73c309645e5d5628d88e9a604",
+        "size": 834
+      },
+      {
+        "path": "mods/.index/my-nethers-delight.pw.toml",
+        "sha1": "db2fc6547a66ea593d741e9c232ac1f3416e2d17",
+        "size": 543
+      },
+      {
+        "path": "mods/.index/naturalist.pw.toml",
+        "sha1": "f377109c2afd1a6691416ac9baafef3fb8316955",
+        "size": 531
+      },
+      {
+        "path": "mods/.index/non-update-reloaded.pw.toml",
+        "sha1": "f532c963706f9514b00abb96083ecb89a1afeae8",
+        "size": 718
+      },
+      {
+        "path": "mods/.index/not-enough-animations.pw.toml",
+        "sha1": "91c3d5090b315c24f2a7182faa82649b44bf0d6a",
+        "size": 669
+      },
+      {
+        "path": "mods/.index/nullscape.pw.toml",
+        "sha1": "f0df2c5953696dea647c92ffcc84c9ad1b78a8e1",
+        "size": 592
+      },
+      {
+        "path": "mods/.index/oritech.pw.toml",
+        "sha1": "fa026be335e56e8e1e73f582cc9f843ba91369b5",
+        "size": 730
+      },
+      {
+        "path": "mods/.index/paladins-and-priests.pw.toml",
+        "sha1": "1f53fbc6cb1d7b0cfc8fec5a9f70df6c24a9c184",
+        "size": 822
+      },
+      {
+        "path": "mods/.index/patchouli.pw.toml",
+        "sha1": "7a374efb4268fbaa6cd3c65a575e3324fb552b55",
+        "size": 487
+      },
+      {
+        "path": "mods/.index/playeranimator.pw.toml",
+        "sha1": "c8ff8d798e342fcefeb6451ffad3c09ec36604ca",
+        "size": 550
+      },
+      {
+        "path": "mods/.index/pneumaticcraft-repressurized.pw.toml",
+        "sha1": "e7f84748269105ae35e21b48a44eaeb167840a38",
+        "size": 647
+      },
+      {
+        "path": "mods/.index/polytone.pw.toml",
+        "sha1": "82832739b8ce563097462703756e5a250443821e",
+        "size": 482
+      },
+      {
+        "path": "mods/.index/prickle.pw.toml",
+        "sha1": "e7d522ca9a56ed562dad7b6965dc6fc0b15229c7",
+        "size": 628
+      },
+      {
+        "path": "mods/.index/puffish-attributes.pw.toml",
+        "sha1": "7d19c052daf37a515584ae7d638834e27e447a79",
+        "size": 557
+      },
+      {
+        "path": "mods/.index/puffish-skills.pw.toml",
+        "sha1": "2ea6b95e77b56fc3dc31e6fceeb7033823119a54",
+        "size": 544
+      },
+      {
+        "path": "mods/.index/quest-enhance.pw.toml",
+        "sha1": "a1d40083de341f5711f094c8636876571e90d707",
+        "size": 612
+      },
+      {
+        "path": "mods/.index/ranged-weapon-api.pw.toml",
+        "sha1": "a977087fabb9b0804dc0558d2f2b3e628f0a094f",
+        "size": 531
+      },
+      {
+        "path": "mods/.index/refurbished-furniture.pw.toml",
+        "sha1": "3a6657044281f57db74e64c718a222a80a76d9cf",
+        "size": 654
+      },
+      {
+        "path": "mods/.index/relics-mod.pw.toml",
+        "sha1": "918c53f8bc186597d79e4489d47c2ec99f21a12a",
+        "size": 646
+      },
+      {
+        "path": "mods/.index/resourceful-lib.pw.toml",
+        "sha1": "bc3d4e5c60c63403d0bd78a6cd9c4b38a55d0559",
+        "size": 503
+      },
+      {
+        "path": "mods/.index/ribbits.pw.toml",
+        "sha1": "81fbe24f9597e3da26d9ff75e44d0d84bb0e34b2",
+        "size": 600
+      },
+      {
+        "path": "mods/.index/rightclickharvest.pw.toml",
+        "sha1": "53d10b43e9313c263fe38a07aad1ca7a7b91f8f3",
+        "size": 615
+      },
+      {
+        "path": "mods/.index/rogues-and-warriors.pw.toml",
+        "sha1": "482e254da8ba585d6fd525ee9737caa355510450",
+        "size": 677
+      },
+      {
+        "path": "mods/.index/rune-crafting.pw.toml",
+        "sha1": "dace434c467a94de820b2b59dc12e3d85e988d4b",
+        "size": 508
+      },
+      {
+        "path": "mods/.index/sable.pw.toml",
+        "sha1": "e2f77f383ba4d4778b5121861a9248e7f2f03bd1",
+        "size": 810
+      },
+      {
+        "path": "mods/.index/selene.pw.toml",
+        "sha1": "507093a566275f9386cf2592a2771a5b6923a888",
+        "size": 493
+      },
+      {
+        "path": "mods/.index/shatterbyte-lib.pw.toml",
+        "sha1": "882802c904ed8f12b1af5341531ee7503f6d434e",
+        "size": 533
+      },
+      {
+        "path": "mods/.index/shield-api.pw.toml",
+        "sha1": "4674fcbf7cef9ced33c71baa7f6b7724d29c78a1",
+        "size": 485
+      },
+      {
+        "path": "mods/.index/simple-voice-chat.pw.toml",
+        "sha1": "dbf8de3880cf8f4e9a6c56d91ec623066f747058",
+        "size": 772
+      },
+      {
+        "path": "mods/.index/skill-tree.pw.toml",
+        "sha1": "d84f508847210721a43b30dcf7a203613ffc6447",
+        "size": 745
+      },
+      {
+        "path": "mods/.index/skinrestorer.pw.toml",
+        "sha1": "cd9186ab64be944a3e59a69386ed982bbf50a251",
+        "size": 693
+      },
+      {
+        "path": "mods/.index/sleep-tight.pw.toml",
+        "sha1": "5ebcb5e2860ba65302e3bfd2fa0cce2f47fd042b",
+        "size": 528
+      },
+      {
+        "path": "mods/.index/smooth-boot-recreated.pw.toml",
+        "sha1": "70cab8f285c34a72d90cbefacda7e80bf83534c2",
+        "size": 474
+      },
+      {
+        "path": "mods/.index/sodium-extra.pw.toml",
+        "sha1": "facef610bbc8490e9f6a4d16fb230f5f32928e37",
+        "size": 921
+      },
+      {
+        "path": "mods/.index/sodium.pw.toml",
+        "sha1": "ab1952bca3790f4903e5de1bc81c79f17165b5df",
+        "size": 648
+      },
+      {
+        "path": "mods/.index/sound-physics-remastered.pw.toml",
+        "sha1": "c913ea6c9b7b72e175eb98c764de550c3cd638bd",
+        "size": 806
+      },
+      {
+        "path": "mods/.index/sound.pw.toml",
+        "sha1": "9b4f65104f9f764e8800fcc96e5d1ead98c02d40",
+        "size": 860
+      },
+      {
+        "path": "mods/.index/spell-engine.pw.toml",
+        "sha1": "a5cc2e9a6fcd4c2d73d8ae3141beebca7b7fb719",
+        "size": 736
+      },
+      {
+        "path": "mods/.index/spell-power.pw.toml",
+        "sha1": "6592cbafcbdbc8c460d4d153bb965b4647ae36ba",
+        "size": 493
+      },
+      {
+        "path": "mods/.index/spice-of-life-carrot-edition.pw.toml",
+        "sha1": "b6fa0633ffa632f4a38cf67275f76c97cadd2eb6",
+        "size": 497
+      },
+      {
+        "path": "mods/.index/starcatcher.pw.toml",
+        "sha1": "a235e6f526ed7c512fdfc97886ab144021b9f648",
+        "size": 684
+      },
+      {
+        "path": "mods/.index/structure-pool-api.pw.toml",
+        "sha1": "dc9ddf75642342701d6ba11615002b83dbb10a25",
+        "size": 514
+      },
+      {
+        "path": "mods/.index/structurify.pw.toml",
+        "sha1": "7860800087f706b2f0606a75882807c0bf820dad",
+        "size": 549
+      },
+      {
+        "path": "mods/.index/supplementaries-squared.pw.toml",
+        "sha1": "92b4ceb58e1d21a37909081e441bf5c8bd6b9eee",
+        "size": 607
+      },
+      {
+        "path": "mods/.index/supplementaries.pw.toml",
+        "sha1": "269534537e1533029f19c04f8e067d6a491e0774",
+        "size": 544
+      },
+      {
+        "path": "mods/.index/surveyor-map-framework.pw.toml",
+        "sha1": "8157aaa556dfec8384c545e564c65a43cc1f694c",
+        "size": 605
+      },
+      {
+        "path": "mods/.index/sushigocrafting.pw.toml",
+        "sha1": "9b7fe11e67c017329ac1d9b1eb0789ce7bd6d542",
+        "size": 599
+      },
+      {
+        "path": "mods/.index/tab-was-taken.pw.toml",
+        "sha1": "bea1ae80957c3677c4c053b49987e8414ed6b22f",
+        "size": 661
+      },
+      {
+        "path": "mods/.index/terrablender.pw.toml",
+        "sha1": "4f69b2fd4c2a72b69d17190f7ad00420732e1814",
+        "size": 640
+      },
+      {
+        "path": "mods/.index/the-twilight-forest.pw.toml",
+        "sha1": "40d3692f9756109835f8d5a7cc37d42a0b445e58",
+        "size": 515
+      },
+      {
+        "path": "mods/.index/titanium.pw.toml",
+        "sha1": "40ce79a692cd8a733abb35d0fd90eb6d55a7feb1",
+        "size": 475
+      },
+      {
+        "path": "mods/.index/toms-storage.pw.toml",
+        "sha1": "3de3e06d9b85259a571c5a4554ac144ba38a1158",
+        "size": 900
+      },
+      {
+        "path": "mods/.index/valhelsia-core.pw.toml",
+        "sha1": "b9b98f1ee56a29438368c448cb434963784c978c",
+        "size": 495
+      },
+      {
+        "path": "mods/.index/valhelsia-structures.pw.toml",
+        "sha1": "ccfd7b839c5b3433356c248854e935b1f0deabc3",
+        "size": 513
+      },
+      {
+        "path": "mods/.index/veil-bonk.pw.toml",
+        "sha1": "b5ed7b52d412ad2fc1d5989a23f91acefe4705a4",
+        "size": 522
+      },
+      {
+        "path": "mods/.index/veil-lib.pw.toml",
+        "sha1": "6840b63a86123f6d5b915e6c43b6a9073a93fdcc",
+        "size": 575
+      },
+      {
+        "path": "mods/.index/vista.pw.toml",
+        "sha1": "4f728f239e3b18487b326c265823a938c4479b32",
+        "size": 1867
+      },
+      {
+        "path": "mods/.index/wds-selling-bin.pw.toml",
+        "sha1": "0311885dd0dd5215753e727cc2f0561def938bc9",
+        "size": 1036
+      },
+      {
+        "path": "mods/.index/wizards.pw.toml",
+        "sha1": "2b07321281f93b64ceceef700b6af34167db0c91",
+        "size": 738
+      },
+      {
+        "path": "mods/.index/worldweaver-neoforge.pw.toml",
+        "sha1": "b36b9b3b831a28c0b0429c546da1e4291d550b37",
+        "size": 605
+      },
+      {
+        "path": "mods/.index/wunderlib-neoforge.pw.toml",
+        "sha1": "e641b51b74dab14eeffe9239181468d3aa517988",
+        "size": 489
+      },
+      {
+        "path": "mods/.index/yacl.pw.toml",
+        "sha1": "cf289cf8ce01eae191af7124931a528b807959b3",
+        "size": 703
+      },
+      {
+        "path": "mods/.index/youre-in-grave-danger.pw.toml",
+        "sha1": "6c87e195ecf0cd993e5e2a4f51d61f9ca2ca4371",
+        "size": 562
+      },
+      {
+        "path": "mods/.index/yungs-api-neoforge.pw.toml",
+        "sha1": "95fe36d08bbe9cc0f52cba25999cb0349b67ef14",
+        "size": 536
+      },
+      {
+        "path": "mods/AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar",
+        "sha1": "9762244f9c116c85a6af3469da686650ed455bb1",
+        "size": 84815086
+      },
+      {
+        "path": "mods/BOMD-NeoForge-1.21-1.3.3.jar",
+        "sha1": "446ff63afb858ad49149d24b72541739de83d38d",
+        "size": 1952017
+      },
+      {
+        "path": "mods/BetterEnd-21.0.39.jar",
+        "sha1": "be8e2a2177db15fc83c96acd7d2be2eb1c62614c",
+        "size": 97734709
+      },
+      {
+        "path": "mods/BetterEndCities-BetterEnd-1.21.jar",
+        "sha1": "b29cc1ffa9c7662b923a4cd3857fd8e7b310a713",
+        "size": 1455439
+      },
+      {
+        "path": "mods/BetterNether-21.0.30.jar",
+        "sha1": "206bbe8a5cbfe3a351c1bcd9edf836ec388d8d3a",
+        "size": 26717104
+      },
+      {
+        "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+        "sha1": "294ae397c011980623bf155f9dfce82bb81865a0",
+        "size": 22338156
+      },
+      {
+        "path": "mods/CerbonsAPI-NeoForge-1.21-1.3.0.jar",
+        "sha1": "3f0d3eed4633d9ef3a713de4b39ee4e683aa9389",
+        "size": 250545
+      },
+      {
+        "path": "mods/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
+        "sha1": "1a8b2594b4d88920c6017f7f1f2cd7120ba1937d",
+        "size": 1236541
+      },
+      {
+        "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
+        "sha1": "27675ddfcb8cc37e6ea1ab6c15051c7949d94657",
+        "size": 3160490
+      },
+      {
+        "path": "mods/Geophilic v3.7.mod.jar",
+        "sha1": "4d668978e18b450c030ed4be096fce52d3a9ceca",
+        "size": 1115993
+      },
+      {
+        "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+        "sha1": "e3d4bb80a06f619be989ab529d0cd4e33e076943",
+        "size": 90717
+      },
+      {
+        "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+        "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
+        "size": 368896
+      },
+      {
+        "path": "mods/ImmersiveEngineering-1.21.1-12.4.2-194.jar",
+        "sha1": "a4e90c2df8009040f6d022433c5d76635944dd59",
+        "size": 14232121
+      },
+      {
+        "path": "mods/Incendium_1.21.x_v5.4.4.jar",
+        "sha1": "40da6da25ec45c4d88447733255e4281b6f22fef",
+        "size": 4267528
+      },
+      {
+        "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+        "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+        "size": 726853
+      },
+      {
+        "path": "mods/L_Ender's Cataclysm 1.21.1-3.33.jar",
+        "sha1": "f0310277167c82fd16a5c2bab220b5c5c262f133",
+        "size": 73375667
+      },
+      {
+        "path": "mods/MoogsBountifulStructures-1.21-1.0.10.jar",
+        "sha1": "e5b63c19e78be484a1dffb6d170addf8672caf6c",
+        "size": 698606
+      },
+      {
+        "path": "mods/MoogsEndStructures-universal-1.21-2.1.1.jar",
+        "sha1": "ef5f57f0e5d06a2f8bec5c073e01ddb061ad477a",
+        "size": 2285901
+      },
+      {
+        "path": "mods/MoogsMineshaftsReimagined-universal-1.21-1.1.0.jar",
+        "sha1": "8062c40df67327fa880eafd7991a373035d254a8",
+        "size": 5067871
+      },
+      {
+        "path": "mods/MoogsMissingVillages-universal-1.21-2.2.0.jar",
+        "sha1": "1b7ea6160c160efda3dc7a97f8c028c25f9f1a12",
+        "size": 696748
+      },
+      {
+        "path": "mods/MoogsNetherStructures-universal-1.21-3.1.1.jar",
+        "sha1": "78845cb7bccaa7812bacce4efdd5481b81b8c347",
+        "size": 3916038
+      },
+      {
+        "path": "mods/MoogsOceanStructures-universal-1.21-1.1.1.jar",
+        "sha1": "e272a06fee7e4b0a4c2efe8c1d338f7e250a0bd9",
+        "size": 1590700
+      },
+      {
+        "path": "mods/MoogsPaths-neoforge-1.21.1-1.2.0.jar",
+        "sha1": "0800ca71f8d652cfc7548b02d5b2064d33395a0c",
+        "size": 372017
+      },
+      {
+        "path": "mods/MoogsSoaringStructures-universal-1.21-2.2.0.jar",
+        "sha1": "1284c673b46a50b0557c2c018f677323484665f6",
+        "size": 5022443
+      },
+      {
+        "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
+        "sha1": "c379b8d5dc1a4b1e8987da1052d6b4de81354d72",
+        "size": 1094979
+      },
+      {
+        "path": "mods/MoogsTemplesReimagined-universal-1.21-2.0.4.jar",
+        "sha1": "d4078318221c74265156f470b1ac321f14069b34",
+        "size": 1709776
+      },
+      {
+        "path": "mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+        "sha1": "6759fa57891f731e54f865c13ffa0601a829b76a",
+        "size": 2234287
+      },
+      {
+        "path": "mods/MoogsVoyagerStructuresIntegrated-neoforge-1.21.1-2.0.1.jar",
+        "sha1": "8e53e59825263a1d51e976e4c6c63423e7615c2c",
+        "size": 3486154
+      },
+      {
+        "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+        "size": 73938
+      },
+      {
+        "path": "mods/MyNethersDelight-1.21.1-1.10.4.1.jar",
+        "sha1": "9c54439d65e77c7b4b711831138f81f3a849ff35",
+        "size": 905059
+      },
+      {
+        "path": "mods/NonUpdateReloaded-2.1.2-neoforge.jar",
+        "sha1": "e73de6b82b7dd97cd43b97b58dc99d4453b1db50",
+        "size": 196605
+      },
+      {
+        "path": "mods/Nullscape_1.21.x_v1.2.14.jar",
+        "sha1": "ae8e1cbd5de6cf6f450bb44cd69cd284dad690dd",
+        "size": 355748
+      },
+      {
+        "path": "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
+        "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad",
+        "size": 544378
+      },
+      {
+        "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+        "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140",
+        "size": 646777
+      },
+      {
+        "path": "mods/Ribbits-1.21.1-NeoForge-4.1.6.jar",
+        "sha1": "22dfd6a52d31bcab58b93c2d4a637ae1b2a01895",
+        "size": 2215572
+      },
+      {
+        "path": "mods/TAB v5.5.0 1.20.5 - 1.21.1.jar",
+        "sha1": "6e956080db699f67984dd2c3fac634f71c9be509",
+        "size": 4025747
+      },
+      {
+        "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+        "sha1": "744394d979b422be560babf9df7a6800ede9ac5b",
+        "size": 120365
+      },
+      {
+        "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+        "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+        "size": 413763
+      },
+      {
+        "path": "mods/alloyed-3.0.12+1.21.1-neoforge.jar",
+        "sha1": "424e0717fb9a82f1d22cb9d26999ca6d1f141515",
+        "size": 883368
+      },
+      {
+        "path": "mods/amendments-1.21-2.2.7-neoforge.jar",
+        "sha1": "f8db6e9b5610fab90a7c545c374feb9140fc7832",
+        "size": 1212703
+      },
+      {
+        "path": "mods/antique-atlas-3.1.2+1.21.jar",
+        "sha1": "97b7c41cbcfcfb86e8ba80b316b1133ff1903e72",
+        "size": 891461
+      },
+      {
+        "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+        "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+        "size": 75804
+      },
+      {
+        "path": "mods/aquamirae-neoforge-1.21.1-7.2.13.jar",
+        "sha1": "9ecfe49fcdc9266d4e2d3c6a05b7374ebc5f6f45",
+        "size": 26105694
+      },
+      {
+        "path": "mods/archers-neoforge-3.1.3+1.21.1.jar",
+        "sha1": "75164980b2e88b5a1f1fffb7fdcffb51d2f7d8a4",
+        "size": 903289
+      },
+      {
+        "path": "mods/architectury-13.0.11-neoforge.jar",
+        "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
+        "size": 584734
+      },
+      {
+        "path": "mods/armor_model_api-neoforge-1.1.0+1.21.1.jar",
+        "sha1": "616a2e4578b4b41af2752459fd12b970fa4809c6",
+        "size": 91856
+      },
+      {
+        "path": "mods/arsenal-neoforge-1.5.0+1.21.1.jar",
+        "sha1": "60a4017c070443fe2e18b3c7cfe0385923696346",
+        "size": 1224482
+      },
+      {
+        "path": "mods/athena-neoforge-1.21.1-4.0.6.jar",
+        "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b",
+        "size": 99944
+      },
+      {
+        "path": "mods/azurelib-neo-1.21.1-3.2.5.jar",
+        "sha1": "8534e1a5effa167ea5c926e8fb1300fe71040e9e",
+        "size": 1286856
+      },
+      {
+        "path": "mods/backpacked-neoforge-1.21.1-3.0.5.jar",
+        "sha1": "5c610383fc803d62825a2111e16ea01680bf25d9",
+        "size": 1282359
+      },
+      {
+        "path": "mods/bards_rpg-neoforge-1.2.0-1.21.1.jar",
+        "sha1": "430a133ef0a8d3fba2825200ef60f277227e383c",
+        "size": 14173341
+      },
+      {
+        "path": "mods/bclib-21.0.28.jar",
+        "sha1": "8fc293f1131367384bb5b47927a84eb6f6d31f28",
+        "size": 2167518
+      },
+      {
+        "path": "mods/beautifiedchatclient-1.21.1-4.0.jar",
+        "sha1": "598f629a6b6da243ab19a26c3c0609d75f2291d7",
+        "size": 52074
+      },
+      {
+        "path": "mods/berserker_rpg-neoforge-3.2.0+1.21.1.jar",
+        "sha1": "2dc8785c04f69685f5095426b49dc81bb3758ada",
+        "size": 629944
+      },
+      {
+        "path": "mods/bettercombat-neoforge-2.4.0+1.21.1.jar",
+        "sha1": "bacbc8c86671663e9998b141c5732250c1f4d4fb",
+        "size": 1045389
+      },
+      {
+        "path": "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+        "sha1": "249a5f2ba43fd341d4a2831691c154d92aa5a12d",
+        "size": 23943105
+      },
+      {
+        "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+        "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+        "size": 328813
+      },
+      {
+        "path": "mods/bundle-api-neoforge-1.1.0.jar",
+        "sha1": "49ea32e2872c9738363eb76a97ce0553bd2ff756",
+        "size": 64124
+      },
+      {
+        "path": "mods/chat_heads-0.15.7-neoforge-1.21.jar",
+        "sha1": "536b2af675229d2a33eb4cf5afbe7148a62d5f3f",
+        "size": 91948
+      },
+      {
+        "path": "mods/chatanimation-neoforge-1.3.5+mc1.21.jar",
+        "sha1": "e647613d3818d4ff74eb7187ea1fe7a95db3b415",
+        "size": 1068711
+      },
+      {
+        "path": "mods/cloth-config-15.0.140-neoforge.jar",
+        "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+        "size": 1163890
+      },
+      {
+        "path": "mods/collective-1.21.1-8.77.jar",
+        "sha1": "8b46dcc8cf91bb35e05fdb7a948fad21cdad108c",
+        "size": 1362135
+      },
+      {
+        "path": "mods/connector-2.0.0-beta.17+1.21.1-full.jar",
+        "sha1": "15e652d3628b1bcb644b93576fcab154496f770a",
+        "size": 4573244
+      },
+      {
+        "path": "mods/create-1.21.1-6.0.10.jar",
+        "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+        "size": 19123767
+      },
+      {
+        "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+        "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b",
+        "size": 33123131
+      },
+      {
+        "path": "mods/createaddition-1.7.2.jar",
+        "sha1": "8e7158d3144b1ee97e58092fe006675b0e09f6d8",
+        "size": 1772844
+      },
+      {
+        "path": "mods/createdeco-2.1.3.jar",
+        "sha1": "93d9eff58b46c6953e907d071e6be4e3ce07be38",
+        "size": 3328498
+      },
+      {
+        "path": "mods/critical_strike-neoforge-1.0.4+1.21.1.jar",
+        "sha1": "e6bf40bd03826c5ce2d57153b8bd9f3463cf5111",
+        "size": 133273
+      },
+      {
+        "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+        "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+        "size": 410690
+      },
+      {
+        "path": "mods/cwb-5.0.0+1.21.0.neoforge.jar",
+        "sha1": "79ac03f9a6928cfb3e4b20b43d4ae1203e73dd2a",
+        "size": 88984
+      },
+      {
+        "path": "mods/delightfulcreators-1.2.3.jar",
+        "sha1": "849d10b33b0edd3720228cc7a3de41b7b5c9d163",
+        "size": 437710
+      },
+      {
+        "path": "mods/displaydelight-1.7.0.jar",
+        "sha1": "0d2040a348a1d42907561babff9ac983c466b825",
+        "size": 1144367
+      },
+      {
+        "path": "mods/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar",
+        "sha1": "9d27991a7f5a551265692abf8ed40ece10ea1958",
+        "size": 168632
+      },
+      {
+        "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+        "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e",
+        "size": 220193
+      },
+      {
+        "path": "mods/easy_npc-neoforge-1.21.1-7.17.1.jar",
+        "sha1": "dbe3e7ff4b0a48e63fe8a28a2330180d77194d39",
+        "size": 3038455
+      },
+      {
+        "path": "mods/easy_npc-neoforge-1.21.1-7.18.0.jar",
+        "sha1": "df3b03da443d3d4d03ed7e06a3295edfa95d12a9",
+        "size": 3132335
+      },
+      {
+        "path": "mods/easy_npc_config_ui-neoforge-1.21.1-7.18.0.jar",
+        "sha1": "7b9564421c4c50e4d0cd7168c5442bb3a34fabc3",
+        "size": 1186275
+      },
+      {
+        "path": "mods/easynpc-x-ftb-quests-compat-neoforge-1.21.1-1.0.2.jar",
+        "sha1": "69fe2579d89aa30e279d6d57f6cdb466bab5568e",
+        "size": 65757
+      },
+      {
+        "path": "mods/emi-1.1.24+1.21.1+neoforge.jar",
+        "sha1": "3fd494b37027dfbc7f78414d7cbf251c9eb6738a",
+        "size": 1111538
+      },
+      {
+        "path": "mods/emi_enchanting-0.1.2+1.21+neoforge.jar",
+        "sha1": "02ad74769ffcec259fd9bb14a1760593f6182b5c",
+        "size": 15680
+      },
+      {
+        "path": "mods/emi_loot-0.7.10+1.21+neoforge.jar",
+        "sha1": "cbf4d9c414835fcb9b33b41bcac2044a14d41372",
+        "size": 466654
+      },
+      {
+        "path": "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar",
+        "sha1": "0afecce68c1fa9e13ef46d4b20a67f65b19c9d8c",
+        "size": 38160
+      },
+      {
+        "path": "mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+        "sha1": "1228c7597c4b6cbaec10a090f9b5b471ca9042d4",
+        "size": 861829
+      },
+      {
+        "path": "mods/enchdesc-neoforge-1.21.1-21.1.11.jar",
+        "sha1": "4d453df785ac21e0e7389cba949f4fa460c3e267",
+        "size": 82648
+      },
+      {
+        "path": "mods/endrem-neoforge-1.21.1-6.3.0.jar",
+        "sha1": "d3fca102a9f5aeb108d5118665b86ead1dd30988",
+        "size": 934349
+      },
+      {
+        "path": "mods/ends_delight-2.6.1+neoforge.1.21.1.jar",
+        "sha1": "0613a535d82b7a3d51d0caf0e04b082cb4c062e9",
+        "size": 258124
+      },
+      {
+        "path": "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
+        "sha1": "e9a163b77243cdfcb0ad3d698dc48a60cb8710e9",
+        "size": 656382
+      },
+      {
+        "path": "mods/entity_texture_features-7.2.7-1.21-neoforge.jar",
+        "sha1": "5fd97ee3a0a3bb8c223f26f196bdb5c9e9841923",
+        "size": 811876
+      },
+      {
+        "path": "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+        "sha1": "f122f84f329793675b2625d51b77f990d7de3579",
+        "size": 1510075
+      },
+      {
+        "path": "mods/exposure-neoforge-1.21.1-1.9.19.jar",
+        "sha1": "181d328a0328523fa99dd310937c40d917e91029",
+        "size": 2206392
+      },
+      {
+        "path": "mods/exposure_polaroid-neoforge-1.21.1-1.1.6.jar",
+        "sha1": "141ea133aff47e1655bd4a4937688bede22ebe58",
+        "size": 361404
+      },
+      {
+        "path": "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+        "sha1": "cafbef98afb4f60adea426b950c5452655040c40",
+        "size": 25922080
+      },
+      {
+        "path": "mods/fancytabsections-6.2.1-NEOFORGE-1.21.1.jar",
+        "sha1": "bdc9738d9ea84276569bbd6f7ae7f06143755194",
+        "size": 89474
+      },
+      {
+        "path": "mods/fancytoasts-1.5.1-neoforge-1.21.1.jar",
+        "sha1": "ea6d91fa5bc3398cf73fb4e2d614eff8ad40a83e",
+        "size": 294959
+      },
+      {
+        "path": "mods/fastpaintings-1.21-1.3.1-neoforge.jar",
+        "sha1": "5cfc24c9b079a624bee0e008ba3cfd10de365412",
+        "size": 155814
+      },
+      {
+        "path": "mods/ferritecore-7.0.3-neoforge.jar",
+        "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+        "size": 121559
+      },
+      {
+        "path": "mods/forbidden_arcanus-1.21.1-2.6.2.jar",
+        "sha1": "7abec512fc48cf996f54444a0af6f740ef209856",
+        "size": 3408442
+      },
+      {
+        "path": "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
+        "sha1": "1fe1ca9f440cd30c86186e42505694b70ececc11",
+        "size": 5612888
+      },
+      {
+        "path": "mods/fragmentum-5.4.0+1.21.1-neoforge.jar",
+        "sha1": "711f46b591cbee203e68cf023277dae9060725f8",
+        "size": 7815344
+      },
+      {
+        "path": "mods/framework-neoforge-1.21.1-0.13.11.jar",
+        "sha1": "e46eb138fbb13a12f37154fb4ec407d64b326475",
+        "size": 387334
+      },
+      {
+        "path": "mods/friendsandfoes-neoforge-5.0.4+mc1.21.1.jar",
+        "sha1": "0bb94ce6451d043fc480188f7e44715b83f351e8",
+        "size": 5280741
+      },
+      {
+        "path": "mods/ftb-library-neoforge-2101.1.39.jar",
+        "sha1": "ff852d99ade215fb892369687d0634ecf0bca6ae",
+        "size": 1477833
+      },
+      {
+        "path": "mods/ftb-quests-neoforge-2101.1.38.jar",
+        "sha1": "389fb269d338ed4c7f14f945a07759b6d444af40",
+        "size": 1635517
+      },
+      {
+        "path": "mods/ftb-teams-neoforge-2101.1.11.jar",
+        "sha1": "62b65f752d0326edd13244e58d5f2aec035da4e9",
+        "size": 308236
+      },
+      {
+        "path": "mods/fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+        "sha1": "aa04a2ddbce2f50b21d667d2f3e589f9e043e472",
+        "size": 2392720
+      },
+      {
+        "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+        "size": 634531
+      },
+      {
+        "path": "mods/goated-1.21-1.4.3-neoforge.jar",
+        "sha1": "c769d7f8a5c184084705a76a89528caa47454082",
+        "size": 775711
+      },
+      {
+        "path": "mods/immersive_aircraft-neoforge-1.7.0+1.21.1.jar",
+        "sha1": "5cf33cd634a88ec5728668bf13421645f11fbbe4",
+        "size": 2543237
+      },
+      {
+        "path": "mods/immersive_armors-1.7.6+1.21.1-neoforge.jar",
+        "sha1": "4c5762af46c0beac0830d1f1e9c88332b120ceaa",
+        "size": 1274167
+      },
+      {
+        "path": "mods/immersive_melodies-neoforge-0.8.2-1.21.1.jar",
+        "sha1": "3c36714c2423cff437dcc2a4e7da0d703494899e",
+        "size": 5570070
+      },
+      {
+        "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+        "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+        "size": 2540723
+      },
+      {
+        "path": "mods/iris_bonk-1.21.1-0.1.3-neoforge.jar",
+        "sha1": "17d59a62e89ab70a83d93901b06bd19eb91e136d",
+        "size": 76062
+      },
+      {
+        "path": "mods/irons_lib-1.21.1-2.3.0.jar",
+        "sha1": "539b49b1a3988d4084a80470f0cfa404258bf0d0",
+        "size": 481888
+      },
+      {
+        "path": "mods/irons_spellbooks-1.21.1-3.16.3.jar",
+        "sha1": "017fd8140c477f9ae602cf95594f1c23bef1d6e3",
+        "size": 13890046
+      },
+      {
+        "path": "mods/jamlib-neoforge-1.3.6+1.21.1.jar",
+        "sha1": "0e422dd29b3f82eaf2a450a0370ace82b8d00f82",
+        "size": 188553
+      },
+      {
+        "path": "mods/jewelry-neoforge-2.5.1+1.21.1.jar",
+        "sha1": "b284c9b53ada2912ed49728d7e6846f8d2f89b1f",
+        "size": 628210
+      },
+      {
+        "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+        "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+        "size": 618842
+      },
+      {
+        "path": "mods/kotlinforforge-5.12.0-all.jar",
+        "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f",
+        "size": 7279264
+      },
+      {
+        "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+        "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422",
+        "size": 2023375
+      },
+      {
+        "path": "mods/letsdo-bakery-neoforge-2.1.11.jar",
+        "sha1": "4bedf5b71939e9f907b2f265a979389da4262ff6",
+        "size": 1649471
+      },
+      {
+        "path": "mods/letsdo-beachparty-neoforge-2.1.5.jar",
+        "sha1": "0e8dc7b367ad5d886ad3ac8978773d39d54b7514",
+        "size": 7766490
+      },
+      {
+        "path": "mods/letsdo-candlelight-neoforge-2.1.15.jar",
+        "sha1": "1d73e2765367f1b221ce6785225a22b0b42b435f",
+        "size": 3048545
+      },
+      {
+        "path": "mods/letsdo-farm_and_charm-neoforge-1.1.29.jar",
+        "sha1": "60b4e599fafc84fb6854d5ef771ee6ae8981a920",
+        "size": 3414667
+      },
+      {
+        "path": "mods/letsdo-herbalbrews-neoforge-1.1.4.jar",
+        "sha1": "22cddc92a7bca8d9816de608355a8329566e44cb",
+        "size": 760078
+      },
+      {
+        "path": "mods/letsdo-meadow-neoforge-1.4.10.jar",
+        "sha1": "dd30b394460c7994de8ab22e3ea0bf7d61fa42c6",
+        "size": 2965222
+      },
+      {
+        "path": "mods/letsdo-vinery-neoforge-1.5.6.jar",
+        "sha1": "2e2866ba9abdfff57509b291b76567054e1d5065",
+        "size": 2570708
+      },
+      {
+        "path": "mods/letsdo-wildernature-neoforge-1.1.8.jar",
+        "sha1": "8a2a614807d1d76aac9fba02d4b2a0d1843b5d05",
+        "size": 3914173
+      },
+      {
+        "path": "mods/letsdocompat-neoforge-2.3.1.jar",
+        "sha1": "5bc9d88a18793a808ecce9bab0218995c1b9f5c3",
+        "size": 28635
+      },
+      {
+        "path": "mods/libtooltips-3.0-NEOFORGE-1.21.1.jar",
+        "sha1": "f01ff07f0182cac0bfcc7b08ab7703d3a3c16c91",
+        "size": 90657
+      },
+      {
+        "path": "mods/lionfishapi-3.1.jar",
+        "sha1": "353ca00ed118eb67cf11085abbbd699884722326",
+        "size": 91596
+      },
+      {
+        "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+        "sha1": "97212e45c963730bbfc7c44780df99317814c21b",
+        "size": 774220
+      },
+      {
+        "path": "mods/lodestone-1.21.1-1.8.2.jar",
+        "sha1": "d1f7c638fac5192e01b1873f27e694a3c262ad11",
+        "size": 818829
+      },
+      {
+        "path": "mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
+        "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
+        "size": 1075929
+      },
+      {
+        "path": "mods/malum-1.21.1-1.8.2.jar",
+        "sha1": "7bea3f874f186a17ad3e271df145c179e81c2a1d",
+        "size": 33585331
+      },
+      {
+        "path": "mods/mcqoy-0.4.1+neo-1.21.jar",
+        "sha1": "98a771b14c1f4ead12ffcd99a90b1c91b25cca8d",
+        "size": 310685
+      },
+      {
+        "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+        "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698",
+        "size": 36096
+      },
+      {
+        "path": "mods/mobspawncontroller-neoforge-1.21.1-1.4.0.jar",
+        "sha1": "5c2bed9911cf9bb14d6183a9ad70fd770a58ff0e",
+        "size": 313791
+      },
+      {
+        "path": "mods/modelfix-1.21-1.10.jar",
+        "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117",
+        "size": 47035
+      },
+      {
+        "path": "mods/moonlight-1.21.1-3.8.0-neoforge.jar",
+        "sha1": "368a54e39d5776f02ab5666becaad4dabcb7e455",
+        "size": 2312798
+      },
+      {
+        "path": "mods/mowziesmobs-1.21.1-1.8.2.jar",
+        "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c",
+        "size": 36042925
+      },
+      {
+        "path": "mods/mrpg-lib-neoforge-2.8.1+1.21.1.jar",
+        "sha1": "b6b017c46ef2ab4ed9faf93218fe7251602b45da",
+        "size": 2288423
+      },
+      {
+        "path": "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
+        "sha1": "903f41bce1ff0b4bd13b66d46bfbd21423663bbc",
+        "size": 243953
+      },
+      {
+        "path": "mods/naturalist-2.0.7-neoforge-1.21.1.jar",
+        "sha1": "a7f9f6d9991880c377d2248af5c1ea05a0aa1039",
+        "size": 11347884
+      },
+      {
+        "path": "mods/notenoughanimations-neoforge-1.12.7-mc1.21.1.jar",
+        "sha1": "137a878ed276a3dfab2715df1864d14f60bd3237",
+        "size": 1868196
+      },
+      {
+        "path": "mods/oritech-neoforge-1.21.1-1.2.13.jar",
+        "sha1": "12515c78b29976bd25077deb7427852f63879ddc",
+        "size": 11000860
+      },
+      {
+        "path": "mods/paladins-neoforge-3.1.3+1.21.1.jar",
+        "sha1": "0491f4e5c30c15c1aba0a82055ea60ff3b9805e1",
+        "size": 3115770
+      },
+      {
+        "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+        "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+        "size": 203149
+      },
+      {
+        "path": "mods/pneumaticcraft-repressurized-8.2.24-mc1.21.1.jar",
+        "sha1": "bced402c1224d948554b1e8fcca2aa002c00864f",
+        "size": 11885688
+      },
+      {
+        "path": "mods/polytone-1.21-5.3.4-neoforge.jar",
+        "sha1": "13380f8b62c982790ed3c431d068e9edc65cbd28",
+        "size": 1780168
+      },
+      {
+        "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+        "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+        "size": 84812
+      },
+      {
+        "path": "mods/puffish_attributes-0.8.3-1.21-neoforge.jar",
+        "sha1": "9e6a87f790fc9281ea2685f8d4f6435d0d7c6d1f",
+        "size": 235542
+      },
+      {
+        "path": "mods/puffish_skills-0.19.2-1.21-neoforge.jar",
+        "sha1": "e7439fa56036bfacf228269b8b89f10cbbba13fd",
+        "size": 652840
+      },
+      {
+        "path": "mods/quest_enhance-1.21.1-neoforge-3.13.jar",
+        "sha1": "9b8ebcfb4660b184192b0fc5c428b28a4c309c0f",
+        "size": 388018
+      },
+      {
+        "path": "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
+        "sha1": "74a47fd693e7eb45d9fc0fe8e9058c5d02e610b2",
+        "size": 163099
+      },
+      {
+        "path": "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+        "sha1": "6c209e6b755ff26218efd55aedf2dea49183d29b",
+        "size": 7133477
+      },
+      {
+        "path": "mods/relics-1.21.1-0.12.11.jar",
+        "sha1": "2a21b9d771375f8dca1dd43cc78f9ce05f804461",
+        "size": 5096604
+      },
+      {
+        "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+        "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+        "size": 484332
+      },
+      {
+        "path": "mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+        "sha1": "473b960c0cae751b7752a43df4756010e30988fa",
+        "size": 287634
+      },
+      {
+        "path": "mods/rogues-neoforge-3.1.3+1.21.1.jar",
+        "sha1": "3d1071bc13298dba6142b7c39395e9bb73cca100",
+        "size": 1751945
+      },
+      {
+        "path": "mods/runes-neoforge-1.3.2+1.21.1.jar",
+        "sha1": "9eb165234592574db6d57cc6deb6d252f822e53e",
+        "size": 329875
+      },
+      {
+        "path": "mods/sable-neoforge-1.21.1-2.0.6.jar",
+        "sha1": "cf46f7e8c1511f170abcdbee739944f0540549bf",
+        "size": 12986135
+      },
+      {
+        "path": "mods/selling_bin-1.6-NEOFORGE-1.21.1.jar",
+        "sha1": "6c67b55385cb029e77b96144a0ed530896450c79",
+        "size": 595102
+      },
+      {
+        "path": "mods/shield_api-neoforge-2.2.0.jar",
+        "sha1": "dfbb73a2a92bac5c06f6b0a747a6660a3e04ed0b",
+        "size": 45428
+      },
+      {
+        "path": "mods/skill_tree-neoforge-1.6.1+1.21.1.jar",
+        "sha1": "6a013f49bb59efbf4c5174ed130dcdd55ba5250f",
+        "size": 2964225
+      },
+      {
+        "path": "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
+        "sha1": "d4864fac231ff3d360e08a82f06553c3f76de8a6",
+        "size": 1905514
+      },
+      {
+        "path": "mods/skinrestorer-2.11.0+1.21-neoforge.jar",
+        "sha1": "cb0b4156931e0760d44bc091e4a7ae08e63b8773",
+        "size": 285346
+      },
+      {
+        "path": "mods/sleep_tight-1.21-1.6.3-neoforge.jar",
+        "sha1": "d665bc2c3e744e50290d9672469fb3dfeb7166a6",
+        "size": 761169
+      },
+      {
+        "path": "mods/smoothboot-1.0.jar",
+        "sha1": "3ddac22cb877c2be4aa4812a8f41320d05d6b5a0",
+        "size": 16821
+      },
+      {
+        "path": "mods/sodium-extra-neoforge-0.9.5+mc1.21.1.jar",
+        "sha1": "6ca433df0ad08ce8413582e75dcae7619414a068",
+        "size": 483373,
+        "optional": true
+      },
+      {
+        "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+        "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+        "size": 1292934,
+        "optional": true
+      },
+      {
+        "path": "mods/solcarrot-1.21.1-1.16.6.jar",
+        "sha1": "32e9bbe18ae1f2f7f672ce08af51ec1928599182",
+        "size": 105355
+      },
+      {
+        "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar",
+        "sha1": "f1903e867a71cbdc3078caf957372b9959482cfb",
+        "size": 204230
+      },
+      {
+        "path": "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+        "sha1": "cbfa42a31515e1bac4bafcdd974fbba29b7d106a",
+        "size": 8732437
+      },
+      {
+        "path": "mods/spell_engine-neoforge-1.10.9+1.21.1.jar",
+        "sha1": "ca6deb6ee834f53b05bc09822ad706199c810da6",
+        "size": 4629624
+      },
+      {
+        "path": "mods/spell_power-neoforge-1.6.0+1.21.1.jar",
+        "sha1": "29a1f6bf29db1868b3b22f3a8cf287b26a429ab2",
+        "size": 222955
+      },
+      {
+        "path": "mods/starcatcher-3.3.10-NEOFORGE-1.21.1.jar",
+        "sha1": "e3e5749556bd96d9972583d741b986f801249a3f",
+        "size": 4814033
+      },
+      {
+        "path": "mods/structure_pool_api-neoforge-1.2.1+1.21.1.jar",
+        "sha1": "5150191b29de8462705e5aa715c2554a5744dc7b",
+        "size": 140459
+      },
+      {
+        "path": "mods/structurify-neoforge-2.0.43+mc1.21.1.jar",
+        "sha1": "efd954533911c8a63f96cad82b96bcde47120ca2",
+        "size": 530369
+      },
+      {
+        "path": "mods/supplementaries-1.21.1-4.0.2-neoforge.jar",
+        "sha1": "af25cb08a82c72b3fb67508071ce627714bd2b57",
+        "size": 13840377
+      },
+      {
+        "path": "mods/suppsquared-neoforge-1.21-1.2.18.jar",
+        "sha1": "0b6845d2afd22f91275a69ad270a0f0ecbfaebe3",
+        "size": 752062
+      },
+      {
+        "path": "mods/surveyor-1.2.4+1.21.jar",
+        "sha1": "77e9d3996c11eed104fe224c3ba706be1c759303",
+        "size": 602264
+      },
+      {
+        "path": "mods/sushigocrafting-1.21-0.6.7.jar",
+        "sha1": "a020812b02c09637948b26fed4f02d8ba366074e",
+        "size": 725161
+      },
+      {
+        "path": "mods/titanium-1.21-4.0.51.jar",
+        "sha1": "aeb581ba5bdaac3bf3d48bee78488151e9c3dfd1",
+        "size": 608070
+      },
+      {
+        "path": "mods/toms_storage-1.21-2.4.2.jar",
+        "sha1": "592af3bc4768c804c4929af16961ca2a1a916942",
+        "size": 856803
+      },
+      {
+        "path": "mods/twilightforest-1.21.1-4.8.3345-universal.jar",
+        "sha1": "9cfd4154928433e2f1f6cfc3deb48c284debb580",
+        "size": 27154121
+      },
+      {
+        "path": "mods/valhelsia_core-neoforge-1.21.1-1.1.5.jar",
+        "sha1": "e7498e89bd7347c6d0f4411f55bd312490dfe814",
+        "size": 181277
+      },
+      {
+        "path": "mods/valhelsia_structures-neoforge-1.21.1-1.1.2.jar",
+        "sha1": "415a94a1400ea57d60f61f86de21b67af0225a69",
+        "size": 2338805
+      },
+      {
+        "path": "mods/veil-neoforge-1.21.1-4.5.2.jar",
+        "sha1": "b9994fd16bac1f78633e17b69ea04b76c0f2654f",
+        "size": 3402614
+      },
+      {
+        "path": "mods/veil_bonk-1.21.1-0.3.0-neoforge.jar",
+        "sha1": "d28e5ee4ee7a540c9b1367e5657b46c2497bd0a7",
+        "size": 191842
+      },
+      {
+        "path": "mods/vista-1.21.1-5.6.2-neoforge.jar",
+        "sha1": "ce26351a7ac1f5c4cdcabe0dd375d5211244ff1c",
+        "size": 5888503
+      },
+      {
+        "path": "mods/voicechat-neoforge-1.21.1-2.6.27.jar",
+        "sha1": "8aded3a22614a8e1641973623e7817dccea513fa",
+        "size": 4936802
+      },
+      {
+        "path": "mods/wizards-neoforge-3.1.3+1.21.1.jar",
+        "sha1": "be5513169318245e03a21a6e769ce347a4669bf4",
+        "size": 4519814
+      },
+      {
+        "path": "mods/worldweaver-21.0.30.jar",
+        "sha1": "88dd2647a1f161dce094b11c9b6c2916963cfe50",
+        "size": 2223172
+      },
+      {
+        "path": "mods/wunderlib-21.0.11.jar",
+        "sha1": "58a8354e9ecb70a04b51f080ce3c2864a1cf3700",
+        "size": 378829
+      },
+      {
+        "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+        "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+        "size": 1118651
+      },
+      {
+        "path": "mods/youre-in-grave-danger-neoforge-2.0.13.jar",
+        "sha1": "5f8382ea90afaeb302a60e87e70a560a9329eabc",
+        "size": 448888
+      },
+      {
+        "path": "resourcepacks/.index/rtf-extension.pw.toml",
+        "sha1": "e790535a1f1b01e9fb5aa89b9ddc94cd5554d4f3",
+        "size": 2355
+      },
+      {
+        "path": "resourcepacks/.index/rtf.pw.toml",
+        "sha1": "a84c96daf1890f124641ae84f63104e0a15fb038",
+        "size": 713
+      },
+      {
+        "path": "resourcepacks/RTF_v.2.8.4_1.20.x.zip",
+        "sha1": "6cbf3ecab6b83abf424317813fae6b7edaa1f403",
+        "size": 1505685,
+        "optional": true
+      },
+      {
+        "path": "resourcepacks/§eRTF+ v.2.7.0§0_§8§0.zip",
+        "sha1": "4a6bf11d66f1f0f4436b5408bab586f06a194b92",
+        "size": 8540396,
+        "optional": true
+      }
+    ]
+  },
+  "server": {
+    "name": "ХаусМайн 4",
+    "address": "95.217.92.207",
+    "port": 25634
+  },
+  "links": {
+    "site": "https://example.com",
+    "discord": "https://discord.gg/your-invite",
+    "help": "https://example.com/help"
+  },
+  "skins": {
+    "template": "",
+    "fallback": "mojang"
+  },
+  "newsUrl": "news.json"
+}

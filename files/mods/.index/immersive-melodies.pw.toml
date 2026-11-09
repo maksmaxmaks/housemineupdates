@@ -1,0 +1,21 @@
+filename = 'immersive_melodies-neoforge-0.8.2-1.21.1.jar'
+name = 'Immersive Melodies'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge 1.21.1] Immersive Melodies - 0.8.2'
+
+[download]
+hash = '3c36714c2423cff437dcc2a4e7da0d703494899e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9364494
+project-id = 904471
+
+[[x-prismlauncher-dependencies]]
+addonId = '429235'
+type = 'OPTIONAL'

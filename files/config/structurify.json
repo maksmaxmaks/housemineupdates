@@ -1,0 +1,58 @@
+{
+  "config_version": "2.0.43",
+  "config_datetime": "2026-11-04_18-54-20",
+  "general": {},
+  "structure_namespaces": [],
+  "structures": [],
+  "structure_sets": [
+    {
+      "name": "block_factorys_bosses:dragon_tower",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:abandoned_structures",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:acropolis",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:amethyst_nest",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:ancient_factory",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:burning_arena",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:cursed_pyramid",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:desert_structures",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:frosted_prison",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:ruined_citadel",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:soul_black_smith",
+      "is_disabled": true
+    },
+    {
+      "name": "cataclysm:sunken_city",
+      "is_disabled": true
+    }
+  ],
+  "structure_template_pools": []
+}
